@@ -49,10 +49,10 @@ education:
     date_start: 3월 2022
     date_end: 현재
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals. 안뇽
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals. 뇽
     button:
       text: 'Read Thesis'
-      url: 'https://www.jbnu.ac.kr/kor/'
+      url: 'https://example.com'
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
