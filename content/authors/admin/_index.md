@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'lucii07701@gmail.com'
     label: E-mail Me
   - icon: brands/instagram
     url: https://www.instagram.com/dllxxun
@@ -43,16 +43,9 @@ interests:
   - Cloud Computing
   - Database
 
-education:
-  - area: it지능정보공학과 학부생
-    institution: 전북대학교
-    date_start: 3월 2022
-    date_end: 현재
-    summary: |
-    
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: 학생회 부원
+    company_name: 제 1대 컴퓨터인공지능학부
     company_url: ''
     company_logo: ''
     date_start: 2021-01-01
@@ -62,17 +55,22 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+  - position: 학부연구생
+    company_name: 전북대학교 분산네트워크 연구실
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2월 2024
+    date_end: 8월 2024
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      아 몰랑
+
+education:
+  - area: it지능정보공학과 학부생
+    institution: 전북대학교
+    date_start: 3월 2022
+    date_end: 현재
+    summary: |
+      안뇽
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
