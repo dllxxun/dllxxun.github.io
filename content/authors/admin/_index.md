@@ -51,7 +51,7 @@ work:
     date_start: 1월 2023
     date_end: 12월 2023
     summary: |2-
-      앗뇽
+      앗뇽.
   - position: 학부연구생
     company_name: 전북대학교 분산네트워크 연구실
     company_url: ''
