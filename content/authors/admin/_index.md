@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'lucii07701@gmail.com'
+    url: 'mailto:lucii07701@gmail.com'
     label: E-mail Me
   - icon: brands/instagram
     url: https://www.instagram.com/dllxxun
@@ -42,25 +42,7 @@ interests:
   - Networking
   - Cloud Computing
   - Database
-
-work:
-  - position: 학생회 부원
-    company_name: 제 1대 컴퓨터인공지능학부
-    company_url: ''
-    company_logo: ''
-    date_start: 1월 2023
-    date_end: 12월 2023
-    summary: |2-
-      앗뇽..
-  - position: 학부연구생
-    company_name: 전북대학교 분산네트워크 연구실
-    company_url: ''
-    company_logo: ''
-    date_start: 2월 2024
-    date_end: 8월 2024
-    summary: |
-      아 몰랑
-      
+   
 education:
   - area: it지능정보공학과
     institution: 전북대학교
