@@ -48,8 +48,8 @@ work:
     company_name: 제 1대 컴퓨터인공지능학부
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 1월 2023
+    date_end: 12월 2023
     summary: |2-
       앗뇽
   - position: 학부연구생
