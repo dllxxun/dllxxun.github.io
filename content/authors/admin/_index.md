@@ -45,14 +45,14 @@ interests:
 
 education:
   - area: it지능정보공학과
-    institution: Jeonbuk University
-    date_start: 2022-01-01
-    date_end: 2025-12-31
+    institution: 전북대학교
+    date_start: 3월 2022
+    date_end: 현재
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals. 안뇽
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
+      url: 'https://www.jbnu.ac.kr/kor/'
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
