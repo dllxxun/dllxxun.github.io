@@ -67,7 +67,9 @@ education:
     date_start: 3월 2022
     date_end: 현재
     summary: |
-      안뇽
+      button:
+      text: ''
+      url: 'https://csai.jbnu.ac.kr/csai/index.do'
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
