@@ -43,33 +43,16 @@ interests:
   - Cloud Computing
   - Database
 
-work:
-  - position: 학생회 부원
-    company_name: 제 1대 컴퓨터인공지능학부
-    company_url: ''
-    company_logo: ''
-    date_start: 1월 2023
-    date_end: 12월 2023
-    summary: |2-
-      앗뇽..
-  - position: 학부연구생
-    company_name: 전북대학교 분산네트워크 연구실
-    company_url: ''
-    company_logo: ''
-    date_start: 2월 2024
-    date_end: 8월 2024
-    summary: |
-      아 몰랑
-
 education:
-  - area: it지능정보공학과 학부생
-    institution: 전북대학교
-    date_start: 3월 2022
-    date_end: 현재
+  - area: it지능정보공학과
+    institution: Jeonbuk University
+    date_start: 2022-01-01
+    date_end: 2025-12-31
     summary: |
-      button:
-      text: ''
-      url: 'https://csai.jbnu.ac.kr/csai/index.do'
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    button:
+      text: 'Read Thesis'
+      url: 'https://example.com'
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
