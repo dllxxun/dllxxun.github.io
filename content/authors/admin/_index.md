@@ -37,10 +37,6 @@ profiles:
     url: https://www.instagram.com/dllxxun
   - icon: brands/github
     url: https://github.com/dllxxun
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
 
 interests:
   - Networking
@@ -48,7 +44,7 @@ interests:
   - Database
 
 education:
-  - area: PhD Artificial Intelligence
+  - area: it지능정보공학과
     institution: Jeonbuk University
     date_start: 2022-01-01
     date_end: 2025-12-31
