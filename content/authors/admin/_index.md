@@ -51,10 +51,7 @@ work:
     date_start: 2021-01-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      앗뇽
   - position: 학부연구생
     company_name: 전북대학교 분산네트워크 연구실
     company_url: ''
