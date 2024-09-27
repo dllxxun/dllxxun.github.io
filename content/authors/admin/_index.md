@@ -42,7 +42,7 @@ interests:
   - Networking
   - Cloud Computing
   - Database
-  
+
 work:
   - position: 학생회 부원
     company_name: 제 1대 컴퓨터인공지능학부
@@ -67,7 +67,7 @@ education:
     date_start: 3월 2022
     date_end: 현재
     summary: |
-      
+      왜 안돼는거야
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
