@@ -1,7 +1,7 @@
 ---
 title: 'Contact'
-date: 2024-05-19
-type: landing
+
+#type: landing
 
 design:
   # Section spacing
