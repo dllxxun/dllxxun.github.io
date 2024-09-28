@@ -1,7 +1,7 @@
 ---
 title: 'Contact'
 
-type: contact
+type: archive
 
 design:
   # Section spacing
