@@ -20,7 +20,7 @@ sections:
         url: uploads/resume.pdf
     design:
       css_class: light
-      background: slate
+      background: ''
         image:
           # Add your image background to `assets/media/`.
           #filename: stacked-peaks.svg
