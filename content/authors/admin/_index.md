@@ -71,19 +71,20 @@ education:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  -items:
-    - name: Python
-      description: ''
-      percent: 80
-      icon: code-bracket 
-    - name: Data Science
-      description: ''
-      percent: 100
-      icon: chart-bar
-    - name: SQL
-      description: ''
-      percent: 40
-      icon: circle-stack
+  - name: Technical Skills
+    items:
+      - name: Python
+        description: ''
+        percent: 80
+        icon: code-bracket 
+      - name: Data Science
+        description: ''
+        percent: 100
+        icon: chart-bar
+      - name: SQL
+        description: ''
+        percent: 40
+        icon: circle-stack
 
 # hobbies:
 #   - name: 운동하기
