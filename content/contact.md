@@ -1,7 +1,7 @@
 ---
 title: 'Contact'
 
-type: archive
+type: lan
 
 design:
   # Section spacing

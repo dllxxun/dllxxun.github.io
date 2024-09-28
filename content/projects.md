@@ -1,6 +1,6 @@
 ---
 title: 'Projects'
-type: list
+type: landing
 
 design:
   # Section spacing
