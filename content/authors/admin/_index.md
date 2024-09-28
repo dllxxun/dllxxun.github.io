@@ -95,6 +95,10 @@ skills:
         icon: person-simple-walk
         summary: |
           아 몰랑
+languages:
+  - name: Korean
+    description: ''
+    percent: 80
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
