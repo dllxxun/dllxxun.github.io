@@ -84,12 +84,12 @@ skills:
     percent: 40
     icon: circle-stack
 
-hobbies:
-  - name: 운동하기
-    description: ''
-    icon: person-simple-walk
-    text: |
-      아 몰랑
+# hobbies:
+#   - name: 운동하기
+#     description: ''
+#     icon: person-simple-walk
+#     text: |
+#       아 몰랑
 
 languages:
   - name: Korean
