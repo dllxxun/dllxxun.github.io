@@ -3,7 +3,7 @@
 title: dllxxun
 
 # Name pronunciation (optional)
-name_pronunciation: yeonjae
+#name_pronunciation: yeonjae
 
 # Full name (for SEO)
 first_name: Yeonjae
@@ -93,8 +93,15 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-        summary: |
+        text: |
           아 몰랑
+hobbys:
+  - name: Hobbies
+    description: ''
+    icon: person-simple-walk
+    text: |
+      아 몰랑
+
 languages:
   - name: Korean
     description: ''
