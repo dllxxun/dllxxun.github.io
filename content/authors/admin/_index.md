@@ -87,7 +87,7 @@ skills:
         icon: circle-stack
 
 hobbies:
-  - name: Hobbies
+  - name: 운동하기
     description: ''
     icon: person-simple-walk
     text: |
