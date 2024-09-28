@@ -16,6 +16,7 @@ sections:
       filters:
         folders:
           - ''
+    content:
       - icon: at-symbol
         url: 'mailto:lucii07701@gmail.com'
         label: E-mail Me
