@@ -57,12 +57,6 @@ sections:
       username: admin
     design:
       show_skill_percentage: false
-  - block: resume-hobbies
-    content:
-      title: Hobbies
-      username: admin
-    design:
-      show_hobby_percentage: false
   - block: resume-languages
     content:
       title: Languages
