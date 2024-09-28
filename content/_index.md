@@ -52,6 +52,22 @@ sections:
         exclude_featured: false
     design:
       view: citation
+  - block: resume-skills
+    content:
+      title: Skills 
+      username: admin
+    design:
+      show_skill_percentage: false
+  #- block: resume-hobbys
+   # content:
+    #  title: Hobbys 
+     # username: admin
+    #design:
+     # show_hobby_percentage: false
+  - block: resume-languages
+    content:
+      title: Languages
+      username: admin
   
   
   - block: cta-card
