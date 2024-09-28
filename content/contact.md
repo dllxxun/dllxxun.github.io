@@ -16,6 +16,14 @@ sections:
       filters:
         folders:
           - ''
+      - icon: at-symbol
+        url: 'mailto:lucii07701@gmail.com'
+        label: E-mail Me
+      - icon: brands/instagram
+        url: https://www.instagram.com/dllxxun
+      - icon: brands/github
+        url: https://github.com/dllxxun
+
     design:
       view: article-grid
       fill_image: false
