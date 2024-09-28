@@ -5,9 +5,7 @@
 # Default language
 en:
   languageCode: ko
-  description: ''
-        percent: 80
-        icon: code-bracket 
+  
 
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en
