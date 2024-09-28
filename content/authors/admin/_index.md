@@ -85,17 +85,8 @@ skills:
         description: ''
         percent: 40
         icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: 운동하기
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-        text: |
-          아 몰랑
-hobbys:
+
+hobbies:
   - name: Hobbies
     description: ''
     icon: person-simple-walk
@@ -109,6 +100,7 @@ languages:
   - name: English
     description: ''
     percent: 70
+
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.

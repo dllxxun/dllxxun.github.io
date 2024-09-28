@@ -53,13 +53,13 @@ sections:
       view: citation
   - block: resume-skills
     content:
-      title: Skills 
+      title: ''
       username: admin
     design:
       show_skill_percentage: false
-  - block: resume-hobbys
+  - block: resume-hobbies
     content:
-      title: Hobbys 
+      title: Hobbies
       username: admin
     design:
       show_hobby_percentage: false
