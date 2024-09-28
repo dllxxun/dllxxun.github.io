@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Network Engineer
+role: Network & Cloud Engineer
 
 # Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: Jeonbuk University
-    url: https://www.jbnu.ac.kr/kor/
+#organizations:
+#  - name: Jeonbuk University
+#    url: https://www.jbnu.ac.kr/kor/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -134,7 +134,7 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## welcom 
+## Welcom !!
 
 My name is Yeonjae Choi, and I'm an undergraduate student majoring in IT.
 I'm interested in networking and cloud computing.
