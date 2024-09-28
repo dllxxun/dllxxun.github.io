@@ -29,7 +29,7 @@ sections:
       title: Hobbys 
       username: admin
     design:
-      show_skill_percentage: false
+      show_hobby_percentage: false
   - block: resume-languages
     content:
       title: Languages
