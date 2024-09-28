@@ -48,8 +48,8 @@ work:
     company_name: 제 1대 컴퓨터인공지능학부
     company_url: ''
     company_logo: ''
-    date_start: 2022-01-01
-    date_end: 2025-12-31
+    date_start: January 1, 2023
+    date_end: December 1, 2023
     summary: |2-
       앗뇽..
   - position: 학부연구생
