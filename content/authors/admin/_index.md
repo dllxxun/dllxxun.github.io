@@ -76,7 +76,7 @@ skills:
       - name: Python
         description: ''
         percent: 80
-        icon: code-bracket
+        icon: code-bracket 
       - name: Data Science
         description: ''
         percent: 100
@@ -98,7 +98,10 @@ skills:
 languages:
   - name: Korean
     description: ''
-    percent: 80
+    percent: 100
+  - name: English
+    description: ''
+    percent: 70
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
