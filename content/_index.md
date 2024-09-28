@@ -53,7 +53,7 @@ sections:
       view: citation
   - block: resume-skills
     content:
-      title: Skills
+      title: Technical Skills
       username: admin
     design:
       show_skill_percentage: false
