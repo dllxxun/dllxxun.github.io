@@ -48,8 +48,8 @@ work:
     company_name: 제 1대 컴퓨터인공지능학부
     company_url: ''
     company_logo: ''
-    date_start: January 1, 2023
-    date_end: December 1, 2023
+    date_start: 2022-01-01
+    date_end: 2025-12-31
     summary: |2-
       앗뇽..
   - position: 학부연구생
@@ -89,19 +89,12 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: 운동하기
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
-
+        summary: |
+          아 몰랑
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
