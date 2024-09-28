@@ -1,7 +1,7 @@
 ---
 title: 'Contact'
 
-type: lan
+type: landing
 
 design:
   # Section spacing
