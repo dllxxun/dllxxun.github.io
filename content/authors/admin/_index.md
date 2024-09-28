@@ -85,18 +85,22 @@ skills:
         description: ''
         percent: 40
         icon: circle-stack
-hobbys:
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: exercise
+      - name: Hiking
         description: ''
         percent: 60
         icon: person-simple-walk
-        summary: |
-          운동하는 것을 좋아합니다. 운동을 하면 스트레스도 풀리고 마음이 정화되는 기분이 듭니다.
-
+      - name: Cats
+        description: ''
+        percent: 100
+        icon: cat
+      - name: Photography
+        description: ''
+        percent: 80
+        icon: camera
 
 # Awards.
 #   Add/remove as many awards below as you like.

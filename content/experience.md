@@ -24,7 +24,7 @@ sections:
       username: admin
     design:
       show_skill_percentage: false
-  - block: resume-hobbbys
+  - block: resume-hobbys
     content:
       title: Hobbies
       username: admin
