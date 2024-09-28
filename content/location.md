@@ -1,21 +1,21 @@
 ---
-title: 'Projects'
+title: 'Contact'
 date: 2024-05-19
 type: landing
 
 design:
   # Section spacing
-  spacing: '3rem'
+  spacing: '5rem'
 
 # Page sections
 sections:
   - block: collection
     content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      title: Contact
+      text: 저에게 용건이 있으시면 아래로 연락주시면 감사드리겠습니다.
       filters:
         folders:
-          - project
+          - ''
     design:
       view: article-grid
       fill_image: false
