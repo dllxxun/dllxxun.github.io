@@ -1,6 +1,6 @@
 ---
 # Display name
-title: dllxxun
+title: dllxxunaaaaaaaaaaaa
 
 # Name pronunciation (optional)
 #name_pronunciation: yeonjae
@@ -66,7 +66,6 @@ education:
     institution: 전북대학교
     date_start: 2022-01-01
     date_end: 2025-12-31
-    
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -76,7 +75,7 @@ skills:
       - name: Python
         description: ''
         percent: 80
-        icon: code-bracket 
+        icon: code-bracket
       - name: Data Science
         description: ''
         percent: 100
@@ -137,4 +136,3 @@ awards:
 
 My name is Yeonjae Choi, and I'm an undergraduate student majoring in IT.
 I'm interested in networking and cloud computing.
-
