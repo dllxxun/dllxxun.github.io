@@ -1,6 +1,6 @@
 ---
-title: 'Contact'
-cms_exclude: true
+title: 'Contact me'
+# cms_exclude: true
 
 # 지도 추가
 sections:
