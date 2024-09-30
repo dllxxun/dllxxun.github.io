@@ -1,6 +1,6 @@
 ---
 # Display name
-title: dllxxunaaaaaaaaaaaa
+title: dllxxun
 
 # Name pronunciation (optional)
 #name_pronunciation: yeonjae
