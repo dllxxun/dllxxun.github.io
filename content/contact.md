@@ -20,7 +20,7 @@ sections:
           url: 'mailto:lucii07701@gmail.com' # 이메일로 연결
 
     design:
-      view: article-grid
+      view: text
       fill_image: false
       columns: 1
 ---
