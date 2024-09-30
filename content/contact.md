@@ -9,7 +9,7 @@ design:
 
 # Page sections
 sections:
-  - block: collection
+  - block: text
     content:
       title: Contact
       text: 저에게 용건이 있으시면 아래로 연락주시면 감사드리겠습니다.
@@ -18,7 +18,7 @@ sections:
         url: 'mailto:lucii07701@gmail.com' # 이메일로 연결
 
     design:
-      view: article-grid
+      view: article
       fill_image: false
       columns: 1
 ---
