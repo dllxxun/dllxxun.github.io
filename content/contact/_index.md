@@ -3,7 +3,8 @@ title: 'Contact me'
 # cms_exclude: true
 
 profiles:
-  - url: 'mailto:lucii07701@gmail.com'
+  title: 'E-mail'
+  external_link: 'mailto:lucii07701@gmail.com'
 
 # 지도 추가
 sections:
