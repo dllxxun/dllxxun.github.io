@@ -16,6 +16,9 @@ sections:
       item:
         - name: lucii07701@gmail.com
           url: 'mailto:lucii07701@gmail.com' # 이메일로 연결
+      filters:
+        folders:
+          - contact
 
     design:
       view: text
