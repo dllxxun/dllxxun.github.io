@@ -17,11 +17,13 @@ sections:
         icon: envelope # 이메일 아이콘
         url: 'mailto:lucii07701@gmail.com' # 이메일로 연결
       filters:
-        folders:
-          - ''
+        - item:
+            - name: Python
+              description: ''
+              icon: envelope
 
     design:
-      # view: article-grid
-      # fill_image: false
+      view: article-grid
+      fill_image: false
       columns: 1
 ---
