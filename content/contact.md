@@ -1,6 +1,5 @@
 ---
 title: 'Contact'
-
 type: landing
 
 design:
@@ -11,11 +10,8 @@ design:
 sections:
   - block: markdown
     content:
-      title: Contact
+      title: Contact me
       text: 저에게 용건이 있으시면 아래로 연락주시면 감사드리겠습니다.
-      item:
-        - name: lucii07701@gmail.com
-          url: 'mailto:lucii07701@gmail.com' # 이메일로 연결
       filters:
         folders:
           - contact
