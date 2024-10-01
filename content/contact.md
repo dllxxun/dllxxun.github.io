@@ -34,7 +34,7 @@ sections:
       # autolink: true
 
     design:
-      view: text
+      view: showcase
       fill_image: false
-      columns: 1
+      columns: 3
 ---
