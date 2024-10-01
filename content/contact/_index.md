@@ -1,5 +1,5 @@
 ---
-title: contact
+title: 'contact'
 # cms_exclude: true
 
 profiles:
