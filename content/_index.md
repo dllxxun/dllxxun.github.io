@@ -56,8 +56,8 @@ sections:
     content:
       title: Technical Skills
       username: admin
-    design:
-      show_skill_percentage: ''
+    # design:
+    #   show_skill_percentage: ''
   - block: resume-languages
     content:
       title: Languages
