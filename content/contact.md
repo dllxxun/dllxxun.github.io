@@ -22,9 +22,9 @@ sections:
       #   postcode: "54896"
       #   country: 대한민국
       #   country_code: KO
-      # coordinates:
-      #   latitude: "35.8460418"
-      #   longitude: "127.1345434"
+      coordinates:
+        latitude: "35.8460418"
+        longitude: "127.1345434"
       # directions:
       # filters:
       #   folders:
@@ -34,7 +34,7 @@ sections:
       # autolink: true
 
     design:
-      view: article-grid
+      view: text
       fill_image: false
-      columns: 3
+      columns: 1
 ---
