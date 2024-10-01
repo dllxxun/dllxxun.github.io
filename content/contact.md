@@ -8,7 +8,7 @@ design:
 
 # Page sections
 sections:
-  - block: collection
+  - block: text
     content:
       title: Contact me
       text: 저에게 용건이 있으시면 아래로 연락주시면 감사드리겠습니다.
@@ -34,6 +34,6 @@ sections:
       autolink: true
 
     design:
-      view: plain
+      view: basic
       columns: 3
 ---
