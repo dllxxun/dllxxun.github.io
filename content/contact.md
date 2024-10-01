@@ -35,6 +35,6 @@ sections:
 
     # # Email form provider
        design:
-      view: text
-      columns: 3
+        view: text
+        columns: 3
 ---
