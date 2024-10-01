@@ -7,9 +7,9 @@ main:
   - name: About me
     url: /
     weight: 10
-    # - name: Technical Skills
-    #   url: admin/
-    #   weight: 11
+  - name: Technical Skills
+    url: admin/
+    weight: 11
   - name: Experience
     url: experience/
     weight: 20
