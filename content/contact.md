@@ -30,11 +30,10 @@ sections:
       #   folders:
       #     - contract
 
-      # Automatically link email and phone or display as text?
-      # autolink: true
+      Automatically link email and phone or display as text?
+      autolink: true
 
     design:
-      view: showcase
-      fill_image: false
+      view: plain
       columns: 3
 ---

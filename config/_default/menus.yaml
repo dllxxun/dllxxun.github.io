@@ -8,6 +8,9 @@ main:
     identifier: about
     url: about
     weight: 10
+  - name: Me
+    parent: about
+    url: /
   - name: Language
     parent: about
     url: /
