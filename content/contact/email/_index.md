@@ -1,5 +1,5 @@
 ---
-title: 'contact'
+title: 'lucii07701@gmail.com'
 # cms_exclude: true
 
 profiles:
