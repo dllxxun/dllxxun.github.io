@@ -34,5 +34,5 @@ sections:
       # autolink: true
 
     design:
-      columns: 3
+      columns: 1
 ---
