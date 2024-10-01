@@ -15,6 +15,7 @@ sections:
       filters:
         folders:
           - project
+          
     design:
       view: article-grid
       fill_image: false
