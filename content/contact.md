@@ -17,7 +17,7 @@ sections:
       email: lucii07701gmail.com
       filters:
         folders:
-          - ''
+          - contract
 
     design:
       view: text
