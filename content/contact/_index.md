@@ -8,8 +8,8 @@ profiles:
 
 
 
-    design:
-      columns: 1
+  design:
+    columns: 1
 
 # View
 view: card
