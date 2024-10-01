@@ -5,11 +5,16 @@
 
 main:
   - name: About me
-    url: /
+    identifier: about
+    url: about
     weight: 10
-  - name: Technical Skills
-    url: authors/
-    weight: 11
+  - name: Language
+    parent: about
+    url: /
+  - name: Skill
+    parent: about
+    url: /
+
   - name: Experience
     url: experience/
     weight: 20
