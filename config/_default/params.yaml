@@ -58,7 +58,7 @@ features:
     enable: false
   privacy_pack:
     enable: false
-  map:
-    provider: "google"
-    api_key: ""
-    zoom: 15
+  # map:
+  #   provider: "google"
+  #   api_key: ""
+  #   zoom: 15

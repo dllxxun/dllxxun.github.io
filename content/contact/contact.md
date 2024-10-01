@@ -25,7 +25,7 @@ sections:
       # coordinates:
       #   latitude: "35.8460418"
       #   longitude: "127.1345434"
-      directions:
+      # directions:
       # filters:
       #   folders:
       #     - contract
