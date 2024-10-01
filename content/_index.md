@@ -17,7 +17,7 @@ sections:
       text: ''
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download CV
+        text: My resume
         url: uploads/resume.pdf
     design:
       css_class: black
@@ -57,7 +57,7 @@ sections:
       title: Technical Skills
       username: admin
     design:
-      show_skill_percentage: false
+      show_skill_percentage: true
   - block: resume-languages
     content:
       title: Languages
