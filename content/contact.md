@@ -34,7 +34,7 @@ sections:
       autolink: true
 
     # # Email form provider
-       design:
-        # view: text
-        columns: 3
+    design:
+    # view: text
+      columns: 3
 ---
