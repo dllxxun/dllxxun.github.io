@@ -8,24 +8,24 @@ design:
 
 # Page sections
 sections:
-  - block: collection
+  - block: contact
     content:
       title: Contact me
       text: 저에게 용건이 있으시면 아래로 연락주시면 감사드리겠습니다.
 
       email: lucii07701@gmail.com
       phone: +82 010-2542-2638
-      # address:
-      #   street: 전북대학교 공과대학 7호관
-      #   city: 전주시
-      #   region: 전라북도
-      #   postcode: "54896"
-      #   country: 대한민국
-      #   country_code: KO
+      address:
+        street: 전북대학교 공과대학 7호관
+        city: 전주시
+        region: 전라북도
+        postcode: '54896'
+        country: 대한민국
+        country_code: KO
       coordinates:
         latitude: "35.8460418"
         longitude: "127.1345434"
-      # directions:
+      directions:
       # filters:
       #   folders:
       #     - contract
@@ -33,7 +33,14 @@ sections:
       # Automatically link email and phone or display as text?
       autolink: true
 
+    # # Email form provider
+      form:
+        provider: netlify
+        formspree:
+          id:
+        netlify:
+          # Enable CAPTCHA challenge to reduce spam?
+          captcha: true
     design:
-      view: text
-      columns: 3
+      columns: '3'
 ---
