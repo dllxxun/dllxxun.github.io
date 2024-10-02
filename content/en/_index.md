@@ -53,12 +53,14 @@ sections:
     design:
       view: citation
   - block: resume-skills
+    id: skills
     content:
       title: Technical Skills
       username: admin
     design:
       show_skill_percentage: false
   - block: resume-languages
+    id: language
     content:
       title: Languages
       username: admin

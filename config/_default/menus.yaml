@@ -6,27 +6,27 @@
 main:
   - name: About me
     identifier: about
-    url: ko/about/
+    url: /
     weight: 10
-  # - name: Me
-  #   parent: about
-  #   url: ko/about/me
-  # - name: Skill
-  #   parent: about
-  #   url: ko/about/#skills
-  #   - name: Language
-  #   parent: about
-  #   url: ko/about/#language
+  - name: Me
+    parent: About me
+    url: /
+  - name: Skill
+    parent: About me
+    url: /#skills
+    - name: Language
+    parent: about
+    url: /#language
 
   - name: Experience
-    url: ko/experience/
+    url: experience/
     weight: 20
   - name: Projects
-    url: ko/projects/
+    url: projects/
     weight: 30
   - name: Teaching
-    url: ko/teaching/
+    url: teaching/
     weight: 40
   - name: Contact
-    url: ko/contact/
+    url: contact/
     weight: 50
