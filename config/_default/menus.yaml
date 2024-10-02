@@ -8,15 +8,15 @@ main:
     identifier: about
     url: ko/about/
     weight: 10
-  - name: Me
-    parent: about
-    url: ko/about/me
-  - name: Skill
-    parent: about
-    url: ko/about/#skills
-    - name: Language
-    parent: about
-    url: ko/about/#language
+  # - name: Me
+  #   parent: about
+  #   url: ko/about/me
+  # - name: Skill
+  #   parent: about
+  #   url: ko/about/#skills
+  #   - name: Language
+  #   parent: about
+  #   url: ko/about/#language
 
   - name: Experience
     url: ko/experience/
