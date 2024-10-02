@@ -1,13 +1,13 @@
 ---
-title: PyTorch
-date: 2023-10-26
-external_link: https://github.com/pytorch/pytorch
+title: Cookierun
+date: 2024-04-26
+external_link: https://github.com/dllxxun/cookierun.git
 tags:
   - Hugo
   - Wowchemy
   - Markdown
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+기존 쿠키런에 새로우 기
 
 <!--more-->

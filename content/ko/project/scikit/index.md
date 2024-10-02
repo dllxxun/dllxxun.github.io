@@ -1,13 +1,13 @@
 ---
-title: scikit-learn
-date: 2023-10-26
-external_link: https://github.com/scikit-learn/scikit-learn
+title: Cookierun
+date: 2024-04-26
+external_link: https://github.com/dllxxun/cookierun.git
 tags:
   - Hugo
   - Wowchemy
   - Markdown
 ---
 
-scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
+기존 쿠키런에 새로우 기
 
 <!--more-->
