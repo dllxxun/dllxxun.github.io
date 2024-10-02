@@ -14,7 +14,7 @@ main:
   - name: Skill
     parent: About me
     url: /#skills
-    - name: Language
+  - name: Language
     parent: about
     url: /#language
 
