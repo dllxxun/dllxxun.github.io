@@ -8,8 +8,8 @@ main:
     identifier: about
     url: /
     weight: 10
-  - name: Me
-    url: /
+  # - name: Me
+  #   url: /
   - name: Skill
     parent: about
     url: /#skills
