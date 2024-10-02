@@ -9,7 +9,6 @@ main:
     url: /
     weight: 10
   - name: Me
-    parent: About
     url: /
   - name: Skill
     parent: about
