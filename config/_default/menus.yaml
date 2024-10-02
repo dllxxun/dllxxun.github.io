@@ -12,7 +12,7 @@ main:
     parent: About me
     url: /
   - name: Skill
-    parent: About me
+    parent: about
     url: /#skills
   - name: Language
     parent: about
