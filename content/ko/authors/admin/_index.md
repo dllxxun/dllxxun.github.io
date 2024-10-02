@@ -134,5 +134,4 @@ awards:
 
 ## Welcom !!
 
-My name is Yeonjae Choi, and I'm an undergraduate student majoring in IT.
-I'm interested in networking and cloud computing.
+반갑습니다. IT전공 학부생 최연재입니다.
