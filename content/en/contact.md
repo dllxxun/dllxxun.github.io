@@ -11,8 +11,7 @@ sections:
   - block: contact
     content:
       title: Contact me
-      text: If you have some questions, 
-      Please contact me below.
+      text: If you have some questions, Please contact me below.
 
       email: lucii07701@gmail.com
       phone: +82 010-2542-2638
