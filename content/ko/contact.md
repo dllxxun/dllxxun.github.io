@@ -11,10 +11,11 @@ sections:
   - block: contact
     content:
       title: Contact me
-      text: 저에게 용건이 있으시면 아래로 연락주시면 감사드리겠습니다.
-
+      text: 저에게 용건이 있으시면 아래로 연락주세요.
+      office_hours:
+        - "월 - 금: 10:00 - 16:00"
       email: lucii07701@gmail.com
-      phone: +82 010-2542-2638
+      #phone: +82 010-2542-2638
       address:
         street: 전북대학교 공과대학 7호관
         city: 전주시

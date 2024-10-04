@@ -92,6 +92,9 @@
             url +
             '">Routing via OpenStreetMap</a></p>',
         );
+        L.control.zoom({
+          position: 'topright' //Zoom control 추가
+        }).addTo(map);
       }
     }
   }
