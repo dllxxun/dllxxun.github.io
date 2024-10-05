@@ -6,6 +6,6 @@ tags: ["project"]
 ---
 
 <!-- ![Litmus Project Image](featured.jpg) -->
-자바를 사용해서 기존 쿠키런에 새로우 기능을 추가한 프로젝트입니다.
+데이터베이스 프로젝트입니다.
 
 <!--more-->
