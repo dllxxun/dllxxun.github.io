@@ -43,11 +43,6 @@ interests:
   - Cloud Computing
   - Database
 
-education:
-  - area: it지능정보공학과
-    institution: 전북대학교
-    date_start: 2022-01-01
-    date_end: 2025-12-31
 
 work:
   - position: 학부 연구생

@@ -1,5 +1,5 @@
 ---
-title: 'Experience'
+title: 'Experience & Education'
 type: landing
 
 design:
@@ -9,7 +9,7 @@ design:
 
 # Page sections
 sections:
-  - block: resume-experience
+  - block: resume-credential/education
     content:
       username: admin
     design:
