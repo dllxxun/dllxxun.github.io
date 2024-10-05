@@ -23,7 +23,7 @@ main:
     weight: 20
   - name: Experience & Education
     parent: credentials
-    url: /education/
+    url: /credential/education/
     weight: 10
   - name: License
     parent: credentials
