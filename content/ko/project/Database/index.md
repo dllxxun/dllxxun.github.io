@@ -5,7 +5,7 @@ date: 2024-04-26
 tags: ["project"]
 ---
 
-![Litmus Project Image](featured.jpg)
+<!-- ![Litmus Project Image](featured.jpg) -->
 자바를 사용해서 기존 쿠키런에 새로우 기능을 추가한 프로젝트입니다.
 
 <!--more-->

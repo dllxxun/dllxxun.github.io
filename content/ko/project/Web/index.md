@@ -5,6 +5,7 @@ date: 2024-09-22
 tags: ["project"]
 ---
 
+![Litmus Project Image](Web.jpg)
 웹서비스설계 과목에서 진행한 개인 포트폴리오 웹사이트 프로젝트입니다.
 
 <!--more-->
