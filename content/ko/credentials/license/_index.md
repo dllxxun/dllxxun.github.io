@@ -19,5 +19,5 @@ sections:
       filters:
         folders:
           - etc
-    design:
+    # design:
 ---
