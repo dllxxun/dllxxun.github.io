@@ -22,7 +22,7 @@ main:
     hasChildren: true
     weight: 20
   - name: Experience & Education
-    parent: credentialss
+    parent: credentials
     url: /credentials/education
   - name: License
     parent: credentials

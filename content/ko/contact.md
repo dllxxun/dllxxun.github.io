@@ -39,6 +39,9 @@ sections:
 
     # # Email form provider
     design:
+      background:
+        image:
+          filename: contact.jpg
     # view: text
       columns: 3
 ---
