@@ -31,8 +31,8 @@ main:
   - name: Projects
     url: project/
     weight: 30
-  - name: Teaching
-    url: teaching/
+  - name: Studying
+    url: studying/
     weight: 40
   - name: Contact
     url: contact/
