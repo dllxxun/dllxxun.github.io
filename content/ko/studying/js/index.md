@@ -6,8 +6,8 @@ type: docs
 math: false
 tags:
   - JavaScript
-image:
-  caption: 'Embed rich media such as videos and LaTeX math'
+# image:
+#   caption: 'Embed rich media such as videos and LaTeX math'
 ---
 
 [한국사검정능력시험] 을 준비중입니다.
