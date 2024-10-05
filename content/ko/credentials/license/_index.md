@@ -1,20 +1,26 @@
 ---
-title: IELTS
+title: "credentials"
+date: 2023-10-24
+type: landing
 
-date: 2024-08-29
+design:
+  spacing: "5rem"
 
-# Featured image
-# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
-image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com)"
+# Note: `username` refers to the user's folder name in `content/authors/`
 
-authors:
-  - admin
-# tags:
-#   - Academic
-#   - Hugo Blox
-#   - Markdown
+# Page sections
+sections:
+  - block: collection
+    id: license
+    content:
+      title: License
+
+      count: 5
+      filters:
+        folders:
+          - etc
+    design:
+      # Choose a layout view
+      # view: community/custom_etccard
+      # Reduce spacing
 ---
-
-2024년 8월 29일 IELTS 5.5등급을 달성했습니다.
-

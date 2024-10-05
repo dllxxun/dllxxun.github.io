@@ -10,9 +10,9 @@ design:
 sections:
   - block: contact
     content:
-      background:
-        image:
-          filename: contact.jpg
+      # background:
+      #   image:
+      #     filename: contact.jpg
       title: Contact me
       text: 저에게 용건이 있으시면 아래로 연락주세요.
       office_hours:
@@ -39,9 +39,9 @@ sections:
 
     # # Email form provider
     design:
-      background:
-        image:
-          filename: contact.jpg
     # view: text
       columns: 3
+    banner:
+      caption: ''
+      image: 'contact.jpg'
 ---
