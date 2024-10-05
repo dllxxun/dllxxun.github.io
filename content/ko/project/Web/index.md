@@ -7,6 +7,6 @@ tags: ["project"]
 
 <!-- ![Litmus Project Image](Web.jpg) -->
 웹서비스설계 과목에서 진행한 개인 포트폴리오 웹사이트 프로젝트입니다.
-관련 내용은 [여기] (https://github.com/dllxxun/dllxxun.github.io.git)를 클릭해주세요.
+관련 내용은 [여기](https://github.com/dllxxun/dllxxun.github.io.git)를 클릭해주세요.
 
 <!--more-->
