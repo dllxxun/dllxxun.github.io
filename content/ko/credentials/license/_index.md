@@ -20,7 +20,4 @@ sections:
         folders:
           - etc
     design:
-      # Choose a layout view
-      # view: community/custom_etccard
-      # Reduce spacing
 ---
