@@ -19,14 +19,15 @@ main:
 
   - name: Credentials
     identifier: credentials
-    hasChildren: true
+    # hasChildren: true
     weight: 20
   - name: Experience & Education
     parent: credentials
-    url: /credentials/education
+    url: /education/
+    weight: 10
   - name: License
     parent: credentials
-    url: /credentials/license
+    url: /license/
 
   - name: Projects
     url: project/
