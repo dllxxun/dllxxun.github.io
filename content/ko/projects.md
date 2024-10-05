@@ -8,7 +8,7 @@ design:
 
 # Page sections
 sections:
-  - block: Projects
+  - block: collection
     content:
       title: My Projects
       text: ''
