@@ -17,9 +17,17 @@ main:
     parent: about
     url: /#language
 
-  - name: Experience
-    url: experience/
+  - name: Credentials
+    identifier: credentials
+    hasChildren: true
     weight: 20
+  - name: Experience & Education
+    parent: credential
+    url: /credentials/education
+  - name: License
+    parent: credential
+    url: /credentials/license
+
   - name: Projects
     url: project/
     weight: 30

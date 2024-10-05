@@ -33,12 +33,11 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '반갑습니다.'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        저는 전북대학교 it지능정보공학과 3학년에 재학 중인 23살 최연재입니다.
+        
 
         Please reach out to collaborate 😃
     design:
