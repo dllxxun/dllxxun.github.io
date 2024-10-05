@@ -33,14 +33,14 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 어 하이'
+      title: 'Hello'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I am Yeonjae Choi, a 23-year-old third-year student majoring in IT Intelligence Information Engineering at Jeonbuk National University. 
+        Last year, after taking a course on networking, I became interested in the field and joined the 'Distributed Network Lab.' There, I studied communication and network technologies and gained valuable research experience related to various networking technologies. I also worked with peers who shared similar goals to prepare for the CCNA certification.
+        Currently, I am expanding my interest to include cloud computing. I plan to work on a project where I build and manage infrastructure using AWS. Through this experience, I aim to develop the skills to build and maintain stable and efficient systems in both network and cloud environments in the professional field.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
 
-        Please reach out to collaborate 😃
     design:
       columns: '1'
   - block: collection
