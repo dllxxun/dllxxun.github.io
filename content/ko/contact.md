@@ -41,7 +41,7 @@ sections:
     design:
     # view: text
       columns: 3
-    banner:
-      caption: ''
-      image: 'contact.jpg'
+    # banner:
+    #   caption: ''
+    #   image: 'contact.jpg'
 ---
