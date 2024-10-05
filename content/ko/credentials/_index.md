@@ -14,10 +14,31 @@ sections:
     id: license
     content:
       title: License
+      item:
+        - certificate_url: https://www.icqa.or.kr/images/cn/pil_bg.jpg
+          date_end: ''
+          date_start: '2024-05-19'
+          description: '네관사'
+          organization: 한국정보통신자격협회
+          organization_url: https://www.icqa.or.kr/cn/page/network
+          title: 네트워크 관리사 2급 (필기)
+          url: ''
+          logo: '<i class="fas fa-graduation-cap"></i>'  
 
-      count: 5
+        - certificate_url: https://ieltskorea.org/korea/results
+          date_end: ''
+          date_start: '2024-08-29'
+          description: '5.5점수 획득'
+          organization: IDP
+          organization_url: https://ieltskorea.org/korea
+          title: IELTS
+          url: ''
+          logo: '<i class="fas fa-certificate"></i>'  
+
+      # count: 5
       filters:
         folders:
-          - etc
-    # design:
+          
+    design:
+      columns: '1'
 ---
