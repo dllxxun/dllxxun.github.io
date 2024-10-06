@@ -44,16 +44,6 @@ sections:
 
     design:
       columns: '1'
-  # - block: collection
-  #   content:
-  #     title: Recent Publications
-  #     text: ''
-  #     filters:
-  #       folders:
-  #         - publication
-  #       exclude_featured: false
-  #   design:
-  #     view: citation
   - block: resume-skills
     content:
       title: Technical Skills
