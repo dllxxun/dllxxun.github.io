@@ -28,6 +28,7 @@ main:
   - name: License
     parent: credentials
     url: /license/
+    weight: 20
 
   - name: Projects
     url: project/

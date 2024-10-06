@@ -1,4 +1,12 @@
 ---
+title: 'Experience & Education'
+type: landing
+
+design:
+  spacing: '2rem'
+
+date_format: Jan 2006
+
 education:
   - area: it지능정보공학과
     institution: 전북대학교
@@ -21,6 +29,9 @@ work:
     date_start: 2022-01-01
     date_end: 2025-12-31
     summary: |2-
-      제 1대 컴퓨터인공지능학부 학생회, 운영부 부원으로 활동주웆ㅇㅈ우ㅜ
+      제 1대 컴퓨터인공지능학부 학생회, 운영부 부원으로 활동
+
+design:
+  columns: '1'
 
 ---
