@@ -1,5 +1,5 @@
 ---
-title: "credentials"
+title: "License"
 date: 2023-10-24
 type: landing
 
