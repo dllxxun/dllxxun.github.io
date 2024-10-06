@@ -77,11 +77,15 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: C/C++
         description: ''
         percent: 100
         icon: chart-bar
       - name: SQL
+        description: ''
+        percent: 40
+        icon: circle-stack
+      - name: Linux
         description: ''
         percent: 40
         icon: circle-stack
