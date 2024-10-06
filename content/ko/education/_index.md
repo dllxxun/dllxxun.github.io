@@ -1,12 +1,5 @@
 ---
 
-title: 'Experience & Education'
-type: landing
-
-design:
-  spacing: '2rem'
-
-date_format: Jan 2006
 
 education:
   - area: it지능정보공학과
@@ -32,7 +25,7 @@ work:
     summary: |2-
       제 1대 컴퓨터인공지능학부 학생회, 운영부 부원으로 활동
 
-design:
-  columns: '1'
+# design:
+#   columns: '1'
 
 ---
