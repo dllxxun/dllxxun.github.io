@@ -13,7 +13,7 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: '전북대 최연재'
+    org_name: "전북대 최연재"
     description: '전북대 최연재 포트폴리오'
     twitter: 'GetResearchDev'
     image: "logo.jpg"
