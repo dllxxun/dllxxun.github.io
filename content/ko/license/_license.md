@@ -1,5 +1,5 @@
 ---
-title: "License"
+title: "Lic"
 date: 2023-10-24
 type: landing
 
@@ -15,25 +15,23 @@ sections:
     content:
       title: License
       item:
-        - certificate_url: https://www.icqa.or.kr/images/cn/pil_bg.jpg
+        - name: 네트워크 관리사 2급
           date_end: ''
           date_start: '2024-05-19'
           description: '네관사'
           organization: 한국정보통신자격협회
           organization_url: https://www.icqa.or.kr/cn/page/network
           title: 네트워크 관리사 2급 (필기)
-          url: ''
-          logo: '<i class="fas fa-graduation-cap"></i>'  
+          url: '' 
 
-        - certificate_url: https://ieltskorea.org/korea/results
+        - name: IELTS
           date_end: ''
           date_start: '2024-08-29'
           description: '5.5점수 획득'
           organization: IDP
           organization_url: https://ieltskorea.org/korea
           title: IELTS
-          url: ''
-          logo: '<i class="fas fa-certificate"></i>'  
+          url: '' 
 
       # count: 5
       filters:
