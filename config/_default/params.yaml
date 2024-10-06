@@ -13,9 +13,10 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
+    org_name: '전북대 최연재'
+    description: '전북대 최연재 포트폴리오'
     twitter: 'GetResearchDev'
+    image: "logo.jpg"
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -23,7 +24,7 @@ marketing:
     fathom: ''
     pirsch: ''
   verification:
-    google: ''
+    google: "https://dllxxun.github.io/"
     baidu: ''
 
 # Site header
