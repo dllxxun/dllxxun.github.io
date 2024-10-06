@@ -10,4 +10,4 @@ tags:
 #   caption: 'Embed rich media such as videos and LaTeX math'
 ---
 
-[토익] 을 준비중입니다.
+I am preparing for the [TOEICexam].
