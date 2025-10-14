@@ -27,6 +27,6 @@ tags:
 
 ## License
 
-2025 [최연재](https://blog.naver.com/cyj0749/223928328877).
+[클릭하면 더 자세한 글을 볼 수 있어요!](https://blog.naver.com/cyj0749/223928328877).
 
-Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md) license.
+<!-- Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md) license. -->
