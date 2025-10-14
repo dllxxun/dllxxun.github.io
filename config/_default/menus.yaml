@@ -8,12 +8,12 @@ main:
     url: tour
     weight: 10
 
-  - name: resume
-    url: post
+  - name: 이력서
+    url: resume
     weight: 20
 
-  - name: project
-    url: people
+  - name: 프로젝트
+    url: project
     weight: 30
 
   - name: personal
@@ -25,13 +25,13 @@ main:
     weight: 40
   - parent: personal
     name: sns
-    url: sns
+    url: event
     weight: 40
 
-  - name: notice
+  - name: 공지
     url: publication
     weight: 50
     
-  - name: Contact
+  - name: 연락처
     url: contact
     weight: 60
