@@ -12,7 +12,7 @@ main:
     url: post
     weight: 20
 
-  - name: pojects
+  - name: project
     url: people
     weight: 30
 
@@ -25,7 +25,7 @@ main:
     weight: 40
   - parent: personal
     name: sns
-    url: event
+    url: sns
     weight: 40
 
   - name: notice
