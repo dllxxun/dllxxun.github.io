@@ -52,6 +52,7 @@ sections:
       # Duration of transition between slides (in ms)
       interval: 2000
 
+title: Project List
 # Listing view
 view: compact
 
