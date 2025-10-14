@@ -20,7 +20,7 @@ sections:
           color: '#666'
       - title: netflix clone
         content: 
-        align: left
+        align: center
         background:
           image:
             filename: netflix.jpg
@@ -30,7 +30,7 @@ sections:
           color: '#555'
       - title: studentmanagement
         content: 
-        align: left
+        align: center
         background:
           image:
             filename: studentss.jpg
@@ -51,20 +51,4 @@ sections:
       loop: false
       # Duration of transition between slides (in ms)
       interval: 2000
-
-  - block: collection
-    content:
-      title: 프로젝트
-      # text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
-      filters:
-        folders:
-          - project
-    design:
-      view: article-grid
-      fill_image: false
-      columns: 3
-      show_date: false
-      show_read_time: false
-      show_read_more: false
-    design: '5rem'
 ---
