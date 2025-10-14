@@ -5,7 +5,7 @@
 
 main:
   - name: About
-    url: tour
+    url: author/admin
     weight: 10
 
   - name: resume
