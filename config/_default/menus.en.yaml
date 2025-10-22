@@ -5,7 +5,7 @@
 
 main:
   - name: About
-    url: author/admin
+    url: author/Choi Yeonjae
     weight: 10
 
   - name: resume

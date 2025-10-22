@@ -1,24 +1,24 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Choi Yeonjae
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Choi
+last_name: Yeonjae
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Department of IT Intelligence Information Engineering, Jeonbuk National University
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Jeonbuk National University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
   - Artificial Intelligence
@@ -27,15 +27,15 @@ interests:
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Currently a senior student
+      institution: Department of IT Intelligence Information Engineering, Jeonbuk National University
+      year: 2022
+    - course: Member, Operations Department
+      institution: Computer & Artificial Intelligence Student Council
+      year: 2023
+    - course: Undergraduate Research Student
+      institution: Distributed Network Laboratory
+      year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -72,6 +72,9 @@ user_groups:
   - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Hello,
+My name is Yeonjae Choi, and I am currently a senior majoring in IT Intelligence Information Engineering at Jeonbuk National University.
+Through my undergraduate coursework, I developed a strong interest in network-related subjects, and during the second semester of 2023, I gained hands-on research experience at the Distributed Network Laboratory.
+Through this research, I deepened my understanding of how network protocols operate and gained practical experience in solving real network problems using various tools and approaches.
+I have maintained a consistent interest in communication and networking, continuously studying the latest technologies and trends to enhance my expertise.
+In the future, I aim to grow as a network engineer who builds stable and efficient communication environments, contributing to network management and system improvement within organizations.
