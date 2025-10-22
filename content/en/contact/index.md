@@ -9,11 +9,11 @@ sections:
     content:
       title: Contact
       text: |-
-        저를 찾아보세요..
+        Find me..
       email: cyj0749@naver.com
       phone: 010-2542-2638
       address:
-        street: 전북대학교 공대7호관
+        street: Building 7, College of Engineering, Jeonbuk National University
         # city: Stanford
         # region: CA
         # postcode: '94305'
@@ -47,23 +47,5 @@ sections:
     design:
       columns: '1'
 
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: contact.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+ 
 ---
