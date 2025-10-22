@@ -39,41 +39,45 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title: 쿠키런 프로젝트
+        content: 
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: cookie.jpg
             filters:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
-        align: left
+        link:
+          text: 프로젝트 보러가기
+          url: ../cookierun/
+      - title: netflix clone
+        content: 
+        align: center
         background:
           image:
-            filename: contact.jpg
+            filename: netflix.jpg
             filters:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
-        align: right
+        link:
+          text: 프로젝트 보러가기
+          url: ../netflix/
+      - title: studentmanagement
+        content: 
+        align: center
         background:
           image:
-            filename: welcome.jpg
+            filename: studentss.jpg
             filters:
               brightness: 0.5
           position: center
           color: '#333'
         link:
-          icon: graduation-cap
-          icon_pack: fas
-          text: Join Us
-          url: ../contact/
+          text: 프로젝트 보러가기
+          url: ../studenmanagement/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
