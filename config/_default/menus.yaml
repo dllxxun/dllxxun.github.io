@@ -15,6 +15,18 @@ main:
   - name: 프로젝트
     url: project
     weight: 30
+  - parent: 프로젝트
+    name: 쿠키런 프로젝트
+    url: cookierun
+    weight: 30
+  - parent: 프로젝트
+    name: 넷플릭스 클론
+    url: netflix
+    weight: 30
+  - parent: 프로젝트
+    name: 학생 관리 시스템
+    url: studenmanagement
+    weight: 30
 
   - name: personal
     url: event
