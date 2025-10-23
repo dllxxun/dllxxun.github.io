@@ -1,5 +1,5 @@
 ---
-title: Example Event
+title: 포즈난 일상들
 
 event: Wowchemy Conference
 event_url: https://example.org

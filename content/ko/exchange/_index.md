@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Events
+title: 폴란드에서의 교환학기
 
 # Listing view
 view: compact
