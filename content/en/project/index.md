@@ -1,5 +1,5 @@
 ---
-title: Tour
+title: Project
 date: 2022-10-24
 
 type: landing
@@ -8,41 +8,41 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title: Cookierun Project
+        content: 
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: cookie.jpg
             filters:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
-        align: left
+      - title: netflix clone
+        content: 
+        align: center
         background:
           image:
-            filename: contact.jpg
+            filename: netflix.jpg
             filters:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
-        align: right
+      - title: studentmanagement
+        content: 
+        align: center
         background:
           image:
-            filename: welcome.jpg
+            filename: studentss.jpg
             filters:
               brightness: 0.5
           position: center
           color: '#333'
-        link:
-          icon: graduation-cap
-          icon_pack: fas
-          text: Join Us
-          url: ../contact/
+        # link:
+        #   icon: graduation-cap
+        #   icon_pack: fas
+        #   text: Join Us
+        #   url: ../contact/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
@@ -51,4 +51,13 @@ sections:
       loop: false
       # Duration of transition between slides (in ms)
       interval: 2000
+
+title: Project List
+# Listing view
+view: compact
+
+# Optional header image (relative to `assets/media/` folder).
+banner:
+  caption: ''
+  image: ''
 ---
