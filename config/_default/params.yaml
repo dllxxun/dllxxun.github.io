@@ -20,9 +20,9 @@ marketing:
     local_business_type: ''
     org_name: '최연재'
     description: '전북대학교 최연재'
-    twitter: 'GetResearchDev'
+    twitter: ''
   analytics:
-    google_analytics: ''
+    google_analytics: 'boZImsDodWvlGbpQDArriO5q0QNV6kHAYNV2FtoDPpo'
     baidu_tongji: ''
     google_tag_manager: ''
     microsoft_clarity: ''
