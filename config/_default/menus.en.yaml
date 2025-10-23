@@ -8,10 +8,6 @@ main:
     url: author/Choi Yeonjae
     weight: 10
 
-  - name: resume
-    url: resume
-    weight: 20
-
   - name: project
     url: project
     weight: 30
