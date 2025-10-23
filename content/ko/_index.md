@@ -108,4 +108,4 @@ sections:
 
 # 안녕하세요.. 연재입니다.
 
-<script src="/js/fade.js"></script>
+<script src="/static/js/fade.js"></script>
