@@ -28,8 +28,8 @@ main:
     url: event
     weight: 40
   - parent: personal
-    name: award & certifications
-    url: skill
+    name: awards 
+    url: awards
     weight: 40
   - parent: personal
     name: experience
