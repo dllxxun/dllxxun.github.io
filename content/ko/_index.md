@@ -107,3 +107,5 @@ sections:
 </div>
 
 # 안녕하세요.. 연재입니다.
+
+<script src="/js/fade.js"></script>
