@@ -1,9 +1,8 @@
 ---
 # Leave the homepage title empty to use the site title
-title: "홈페이지"
+title: 
 date: 2022-10-24
 type: landing
-draft: false
 
 
 sections:
@@ -17,14 +16,13 @@ sections:
         <br>
         
         🍠🍠🍠🍠🍠🍠🍠🍠🍠
-        
         겨울엔 고구마를 드세요..
   
         
   
   - block: collection
     content:
-      title: 
+      title: Projects
       subtitle:
       text:
       count: 5
@@ -114,12 +112,3 @@ sections:
     design:
       columns: '1'
 ---
-
-<div id="image-container" style="position: relative; width: 100%; height: 100vh;">
-  <img src="/static/uploads/사진1.jpg" id="image1" class="fade-image active" style="width:100%; height:auto;">
-  <img src="/static/uploads/사진2.jpg" id="image2" class="fade-image" style="width:100%; height:auto;">
-</div>
-
-# 안녕하세요.. 연재입니다.
-
-<script src="/static/js/fade.js"></script>
