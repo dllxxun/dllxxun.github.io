@@ -5,17 +5,7 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
-    content:
-      title: |
-        안녕하세요.. 연재입니다.
-      image:
-        filename: welcome.jpg
-      text: |
-        <br>
-        
-        🍠🍠🍠🍠🍠🍠🍠🍠🍠
-        겨울엔 고구마를 드세요..
+  
         
   
   - block: collection
@@ -110,3 +100,10 @@ sections:
     design:
       columns: '1'
 ---
+
+<div id="image-container" style="position: relative; width: 100%; height: 100vh;">
+  <img src="/uploads/사진1.jpg" id="image1" class="fade-image active" style="width:100%; height:auto;">
+  <img src="/uploads/사진2.jpg" id="image2" class="fade-image" style="width:100%; height:auto;">
+</div>
+
+# 안녕하세요.. 연재입니다.
