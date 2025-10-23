@@ -1,8 +1,10 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
+title: "홈페이지"
 date: 2022-10-24
 type: landing
+draft: false
+
 
 sections:
   
