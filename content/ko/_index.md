@@ -8,14 +8,15 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        안녕하세요.. 연재입니다.
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        🍠🍠🍠🍠🍠🍠🍠🍠🍠
+        겨울엔 고구마를 드세요..
+        
   
   - block: collection
     content:

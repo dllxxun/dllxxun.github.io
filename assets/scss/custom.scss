@@ -1,7 +1,7 @@
 /* 네비게이션 링크 hover 색상 변경 */
 .navbar .nav-link:hover,
 .navbar .nav-link:focus {
-  color: #1fdf0e !important;  /* 초록색 강조 효과 */
+  color: #5abf64 !important;  /* 초록색 강조 효과 */
   transition: color 0.2s ease-in-out;
   text-decoration: underline; /* 밑줄 효과 */
 }
@@ -9,7 +9,7 @@
 /* 클릭(active) 시 색상 유지 */
 .navbar .nav-link.active,
 .navbar .nav-link:active {
-  color: #1fdf0e !important;
+  color: #5abf64 !important;
 }
 .hero .hero-media img {
   display: block;
@@ -17,4 +17,22 @@
   max-width: 90vw;  /* 화면에 따라 알아서 크기 맞춤 */
   width: 800px;     /* 원하는 최대 크기(px)로 키움 */
   height: auto;
+}
+
+#image-container {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+}
+.fade-image {
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  object-fit: cover;
+  opacity: 0;
+  transition: opacity 2s ease-in-out;
+}
+.fade-image.active {
+  opacity: 1;
 }
