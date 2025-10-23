@@ -7,6 +7,18 @@ draft: false
 
 
 sections:
+  - block: hero
+    content:
+      title: |
+        안녕하세요.. 연재입니다.
+      image:
+        filename: welcome.jpg
+      text: |
+        <br>
+        
+        🍠🍠🍠🍠🍠🍠🍠🍠🍠
+        
+        겨울엔 고구마를 드세요..
   
         
   
