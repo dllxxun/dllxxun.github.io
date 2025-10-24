@@ -20,7 +20,7 @@ image:
 # Hero 또는 배너 영역 설정
 banner:
   caption: "Image credit: [Unsplash](https://images.unsplash.com/photo-1581447109200-bf2769116351)"
-  image: "uploads/toeic_study.jpg"  # 기존 Unsplash 외부 URL 대신 static/uploads 이미지 추천
+  image: "/assets/media/toeic_study.jpg"  # 기존 Unsplash 외부 URL 대신 static/uploads 이미지 추천
 
 # 프로젝트/포트폴리오용일 경우
 projects:
