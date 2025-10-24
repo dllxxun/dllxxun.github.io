@@ -8,6 +8,18 @@ main:
     url: author/Choi Yeonjae
     weight: 10
 
+  - name: activities
+    url: recent
+    weight: 20
+  - parent: recent
+    name: awards & ertifications
+    url: awards
+    weight: 20
+  - parent: recent
+    name: now 
+    url: now 
+    weight: 20
+
   - name: project
     url: project
     weight: 30
@@ -25,7 +37,7 @@ main:
     weight: 40
 
   - name: notice
-    url: publication
+    url: notice
     weight: 50
     
   - name: Contact

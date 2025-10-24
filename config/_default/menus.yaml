@@ -8,9 +8,18 @@ main:
     url: author/최연재
     weight: 10
 
-  - name: recent
+  - name: activities
     url: recent
     weight: 20
+  - parent: recent
+    name: awards & ertifications
+    url: awards
+    weight: 20
+  - parent: recent
+    name: now 
+    url: now 
+    weight: 20
+  
 
   - name: 프로젝트
     url: project
@@ -32,11 +41,7 @@ main:
     url: event
     weight: 40
   - parent: personal
-    name: awards 
-    url: awards
-    weight: 40
-  - parent: personal
-    name: experience
+    name: 교환학생
     url: exchange
     weight: 40
   - parent: personal
@@ -45,7 +50,7 @@ main:
     weight: 40
 
   - name: 공지
-    url: publication
+    url: notice
     weight: 50
     
   - name: 연락처
