@@ -8,6 +8,10 @@ main:
     url: author/최연재
     weight: 10
 
+  - name: recent
+    url: recent
+    weight: 20
+
   - name: 프로젝트
     url: project
     weight: 30

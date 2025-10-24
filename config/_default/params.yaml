@@ -21,6 +21,9 @@ marketing:
     org_name: '최연재'
     description: '전북대학교 최연재'
     twitter: ''
+    open_graph:
+      title: '전북대학교 최연재 | 포트폴리오'
+      image: 'https://dllxxun.github.io/assets/media/icon.png'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
