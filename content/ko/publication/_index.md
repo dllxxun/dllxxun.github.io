@@ -1,5 +1,5 @@
 ---
-title: ""
+title: 
 date: 2025-10-24
 draft: false
 

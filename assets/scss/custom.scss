@@ -13,10 +13,9 @@
 }
 
 .hero .hero-media img {
-  display: block;
-  margin: 0 auto;   /* 이미지 가운데 정렬 */
-  max-width: 90vw;  /* 화면에 따라 알아서 크기 맞춤 */
-  width: 600px;     /* 원하는 최대 크기(px)로 키움 */
-  height: auto;
+  max-width: 700px;   /* 원하는 최대 너비 */
+  width: 90%;         /* 비율에 맞게 알아서 조절 */
+  height: auto;       /* 세로는 자동 */
+  margin: 0 auto;     /* 가운데 정렬 */
 }
 
