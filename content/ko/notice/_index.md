@@ -10,15 +10,10 @@ tags: ["스터디", "토익", "모집"]
 
 featured: true
 
-# 대표 배너 이미지 설정
-image:
-  filename: "toeic_study.jpg"  
-  focal_point: "Right"
-  preview_only: false
-
 # Hero 또는 배너 영역 설정
 banner:
-  image: "/assets/media/toeic_study.jpg"  
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
+  image: "toeic_study.jpg"  
 
 # 프로젝트/포트폴리오용일 경우
 projects:
