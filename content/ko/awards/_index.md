@@ -6,6 +6,6 @@ view: compact
 
 # Optional header image (relative to `assets/media/` folder).
 banner:
-  caption: ''
-  image: "/assets/media/award.jpg"
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
+  image: "award.jpg"
 ---
