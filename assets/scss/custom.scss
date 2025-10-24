@@ -1,7 +1,7 @@
 /* 네비게이션 링크 hover 색상 변경 */
 .navbar .nav-link:hover,
 .navbar .nav-link:focus {
-  color: #5abf64 !important;  /* 초록색 강조 효과 */
+  color: #8dd13a !important;  /* 초록색 강조 효과 */
   transition: color 0.2s ease-in-out;
   text-decoration: underline; /* 밑줄 효과 */
 }
@@ -9,7 +9,7 @@
 /* 클릭(active) 시 색상 유지 */
 .navbar .nav-link.active,
 .navbar .nav-link:active {
-  color: #5abf64 !important;
+  color: #8dd13a !important;
 }
 
 .hero .hero-media img {
@@ -18,4 +18,9 @@
   height: auto;       /* 세로는 자동 */
   margin: 0 auto;     /* 가운데 정렬 */
 }
+
+.icon, .info-title {
+  color: #8dd13a; /* 오렌지로 변경 */
+}
+
 

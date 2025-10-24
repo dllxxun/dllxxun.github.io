@@ -12,7 +12,7 @@ main:
     url: recent
     weight: 20
   - parent: activities
-    name: awards & ertifications
+    name: awards & certifications
     url: awards
     weight: 20
   - parent: activities
