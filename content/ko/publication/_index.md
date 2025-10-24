@@ -27,7 +27,7 @@ projects:
   - example
 
 # 페이지 유형 설정 (보통 post)
-type: book
+type: event
 ---
 
 # [TOEIC 스터디 모집합니다!]
