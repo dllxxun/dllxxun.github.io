@@ -5,7 +5,7 @@
 
 main:
   - name: About
-    url: author/Choi Yeonjae
+    url: author/최연재
     weight: 10
 
   - name: activities

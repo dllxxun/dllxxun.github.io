@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 최연재
+title: 
 type: landing
 
 # Full Name (for SEO)
