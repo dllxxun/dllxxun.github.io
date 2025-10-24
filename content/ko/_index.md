@@ -21,6 +21,38 @@ sections:
 
         겨울엔 고구마를 드세요..
   
+  - block: features
+    id: features
+    content:
+      title: Information
+      text: 최연재의 정보
+      items:
+        - name: 이름
+          icon: user
+          icon_pack: fas
+          description: 최연재
+        - name: 생년월일
+          icon: calendar-days
+          icon_pack: fas
+          description: 2002.12.24
+        - name: 위치
+          icon: location-dot
+          icon_pack: fas
+          description: 전북대학교 공과대학 7호관
+        - name: 연락처
+          icon: phone
+          icon_pack: fas
+          description: 010-2542-2638
+        - name: 이메일
+          icon: envelope
+          icon_pack: fas
+          description: cyj0749@naver.com
+        - name: 학력
+          icon: graduation-cap
+          icon_pack: fas
+          description: 전북대학교 it지능정보공학과
+    design:
+      columns: '3'
         
   
   - block: collection
