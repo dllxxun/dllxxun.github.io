@@ -11,11 +11,11 @@ main:
   - name: activities
     url: recent
     weight: 20
-  - parent: recent
+  - parent: activities
     name: awards & ertifications
     url: awards
     weight: 20
-  - parent: recent
+  - parent: activities
     name: now 
     url: now 
     weight: 20
