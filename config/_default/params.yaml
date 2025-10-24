@@ -6,11 +6,11 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: ocean
-  font: pink
+  theme_day: sky
+  theme_night: dark
+  font: sky
   font_size: L
-  color: pink
+  color: sky
 
 # SEO
 
