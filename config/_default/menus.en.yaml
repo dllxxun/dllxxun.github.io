@@ -20,15 +20,27 @@ main:
     url: now 
     weight: 20
 
-  - name: project
+  - name: projects
     url: project
+    weight: 30
+  - parent: projects
+    name: cookierun project
+    url: cookierun
+    weight: 30
+  - parent: projects
+    name: netflix clone
+    url: netflix
+    weight: 30
+  - parent: projects
+    name: student_management system
+    url: studenmanagement
     weight: 30
 
   - name: personal
     url: event
     weight: 40
   - parent: personal
-    name: experience
+    name: exchange student
     url: event
     weight: 40
   - parent: personal
@@ -40,6 +52,6 @@ main:
     url: notice
     weight: 50
     
-  - name: Contact
+  - name: contact
     url: contact
     weight: 60
