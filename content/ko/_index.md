@@ -25,7 +25,6 @@ sections:
     id: features
     content:
       title: Information
-      text: 최연재의 정보
       items:
         - name: 이름
           icon: user
@@ -35,10 +34,6 @@ sections:
           icon: calendar-days
           icon_pack: fas
           description: 2002.12.24
-        - name: 위치
-          icon: location-dot
-          icon_pack: fas
-          description: 전북대학교 공과대학 7호관
         - name: 연락처
           icon: phone
           icon_pack: fas
@@ -51,6 +46,10 @@ sections:
           icon: graduation-cap
           icon_pack: fas
           description: 전북대학교 it지능정보공학과
+        - name: 위치
+          icon: location-dot
+          icon_pack: fas
+          description: 전북대학교 공과대학 7호관
     design:
       columns: '3'
         
@@ -76,6 +75,7 @@ sections:
   
   - block: slider
     content:
+      title: Projects
       slides:
       - title: 쿠키런 프로젝트
         content: 
