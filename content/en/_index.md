@@ -11,7 +11,7 @@ sections:
       title: |
 
       
-        안녕하세요.. 연재입니다.
+        Hello, this is Yeonjae
       image:
         filename: welcome.jpg
       text: |
@@ -19,65 +19,45 @@ sections:
         
         🍠🍠🍠🍠🍠🍠🍠🍠🍠
 
-        겨울엔 고구마를 드세요..
+        Eat sweet potatoes in winter..
   
   - block: features
     id: features
     content:
       title: Information
       items:
-        - name: 이름
+        - name: name
           icon: user
           icon_pack: fas
-          description: 최연재
-        - name: 생년월일
+          description: Yeonjae Choi
+        - name: Date of Birth
           icon: calendar-days
           icon_pack: fas
           description: 2002.12.24
-        - name: 연락처
+        - name: Contact
           icon: phone
           icon_pack: fas
           description: 010-2542-2638
-        - name: 이메일
+        - name: Email
           icon: envelope
           icon_pack: fas
           description: cyj0749@naver.com
-        - name: 학력
+        - name: Education
           icon: graduation-cap
           icon_pack: fas
-          description: 전북대학교 it지능정보공학과
-        - name: 위치
+          description: Department of IT Intelligent Information Engineering, Jeonbuk National University
+        - name: Location
           icon: location-dot
           icon_pack: fas
-          description: 전북대학교 공과대학 7호관
+          description: College of Engineering Building 7, Jeonbuk National University
     design:
       columns: '3'
-        
-  
-  - block: collection
-    content:
-      title: Projects
-      subtitle:
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: post
-    design:
-      view: card
-      columns: '1'
   
   - block: slider
     content:
       title: Projects
       slides:
-      - title: 쿠키런 프로젝트
+      - title: Cookierun Project
         content: 
         align: center
         background:
@@ -88,7 +68,7 @@ sections:
           position: right
           color: '#666'
         link:
-          text: 프로젝트 보러가기
+          text: View Project
           url: ../cookierun/
       - title: netflix clone
         content: 
@@ -101,7 +81,7 @@ sections:
           position: center
           color: '#555'
         link:
-          text: 프로젝트 보러가기
+          text: View Project
           url: ../netflix/
       - title: studentmanagement
         content: 
@@ -114,7 +94,7 @@ sections:
           position: center
           color: '#333'
         link:
-          text: 프로젝트 보러가기
+          text: View Project
           url: ../studenmanagement/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
@@ -141,30 +121,27 @@ sections:
   - block: accomplishments
     id: certificates
     content:
-      title: 🎓 자격증
+      title: 🎓 Certificates
       items:
         - title: IELTS
           organization: IDP
           date_start: '2024-08-31'
           date_end: ''
           description: |
-            IDP에서 주관하는 국제 영어 능력 시험인 IELTS를 완료하여 영어 듣기, 읽기, 쓰기, 말하기 영역에서의 능력을 입증받았습니다.
+            Completed the International English Language Testing System (IELTS) conducted by IDP, demonstrating proficiency in listening, reading, writing, and speaking.
             
             
-        - title: 네트워크 관리사 2급 (필기)
-          organization: 한국정보통신자격협회
+        - title: Network Manager Level 2 (Written)
+          organization: Korea Information and Communication Qualification Association
           date_start: '2024-05-19'
           date_end: ''
           description: |
-            TCP/IP, OSI 모델, 네트워크 보안 및 실무적인 네트워크 관리 능력 인증
+            Certified in TCP/IP, OSI model, network security, and practical network management skills.
             
-            
-        - title: 리눅스마스터 2급
-          organization: 대한검정회
-          date_start: '2024-09-13'
-          date_end: ''
+        - title: Linux Master Level 2
+          organization: Korea Chamber of Informatization
           description: |
-            리눅스 운영체제의 기본 관리, 명령어 활용, 서버 설정 및 네트워크 운용 능력을 인증
+            Certified for proficiency in basic Linux administration, command-line usage, server configuration, and network operation.
             
     design:
       columns: '3'
