@@ -6,62 +6,55 @@ draft: false
 authors:
   - admin
 
-tags: ["스터디", "토익", "모집"]
+tags: ["Study", "TOEIC", "Recruitment"]
 
 featured: true
 
-# 대표 배너 이미지 설정
-image:
-  filename: "toeic_study.jpg"  # 직접 저장한 이미지 파일명 (예: static/uploads/ 경로에)
-  caption: "Photo by [Unsplash](https://images.unsplash.com/photo-1581447109200-bf2769116351)"
-  focal_point: "Right"
-  preview_only: false
-
-# Hero 또는 배너 영역 설정
+# Hero or banner settings
 banner:
-  caption: "Image credit: [Unsplash](https://images.unsplash.com/photo-1581447109200-bf2769116351)"
-  image: "/assets/media/toeic_study.jpg"  # 기존 Unsplash 외부 URL 대신 static/uploads 이미지 추천
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
+  image: "toeic_study.jpg"  
 
-# 프로젝트/포트폴리오용일 경우
+# For project/portfolio use
 projects:
   - example
 
-# 페이지 유형 설정 (보통 post)
+# Page type (usually post)
 type: event
 ---
 
-# [TOEIC 스터디 모집합니다!]
+# [TOEIC Study Group Recruitment!]
 
-안녕하세요! TOEIC 목표 점수를 위해 함께 공부할 열정적인 스터디원을 모집합니다.  
+Hello! We are looking for passionate study members to prepare together for the TOEIC exam.  
 
-🔍 **모집 대상**  
-- TOEIC 700점 이상 목표인 분  
-- 꾸준한 학습과 피드백을 원하는 분 
+🔍 **Who Can Join**  
+- Those aiming for a TOEIC score of 700 or higher  
+- Those who want consistent study and feedback  
 
-📅 **스터디 기간**
-- 11월 ~ 1월 예정
+📅 **Study Period**  
+- November to January (tentative)  
 
-📍**장소** 
-- 전북대 도서관 / 온라인 Zoom 병행 
+📍 **Location**  
+- Jeonbuk National University Library / Online via Zoom  
 
-📖 **교재** 
-- 교재는 자유롭게 들고오셔도 되나, 해커스 토익 RC/LC 기출문제집은 지참해주세요.
+📖 **Materials**  
+- You can bring your own textbooks, but please bring the Hackers TOEIC RC/LC Practice Book.  
 
-🕒 **시간**
-- 요일: 화, 2시간정도 할 예정
-- 시간: 미정   
+🕒 **Schedule**  
+- Day: Tuesday, approximately 2 hours  
+- Time: To be decided  
 
-📝 **활동 내용**  
-- 매주 TOEIC 모의고사 문제 풀이  
-- 듣기와 독해 실전 문제 중심으로 학습  
-- 피드백 및 학습 계획 공유 
+📝 **Activities**  
+- Weekly TOEIC practice tests  
+- Focused study on listening and reading comprehension  
+- Feedback and sharing of study plans  
 
-💡 **기타 사항**  
-- 함께 성실하게 참여할 분들만 모집합니다!  
-- 소규모 인원으로 진행됩니다.  
+💡 **Notes**  
+- Only those who can participate diligently are welcome!  
+- The group will be small-scale.  
 
-📩 **신청 방법**  
-아래 링크를 통해 신청서 작성 후 연락 부탁드립니다!  
+📩 **How to Apply**  
+Please fill out the application form via the link below and get in touch!  
 👉 [Join Us](https://docs.google.com/forms/d/e/1FAIpQLSeXsLACQg3C3A0_Mdl0Slh_EYZ65XOEg0AEPm6UULTy0BH6Ww/viewform)
 
-많은 참여 부탁드립니다! 🚀
+Looking forward to your participation! 🚀
