@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 최연재
+title: 최연재다
 
 # Full Name (for SEO)
 first_name: Yeonjae

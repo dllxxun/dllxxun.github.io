@@ -27,7 +27,7 @@ sections:
           <a href="/python/sweetpotato.py" style="color: #5c5c5cff;" download>
             Python Turtle로 그린 보라색 고구마 🎨
           </a><br>
-        귀여운 캐릭터를 직접 만들어봤어요!
+        첫 페이지에는 제가 가장 좋아하는 겨울 간식 고구마를 담아보았습니다. 파이썬 터틀 모듈을 이용해 고구마 캐릭터를 만들어보았는데요, 위 텍스트를 누르면 실행 파일이 다운로드 됩니다. 다운하셔서 즐겨보세요!
         </small>      
       
       
