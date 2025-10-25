@@ -64,6 +64,21 @@ header .logo:hover {
   color: #8dd13a !important;
 }
 
+/* 사이드바 메뉴 확대 효과 */
+.sidebar a,
+.docs-sidebar a,
+nav.toc a {
+  transition: all 0.2s ease;
+}
+
+.sidebar a:hover,
+.docs-sidebar a:hover,
+nav.toc a:hover {
+  transform: scale(1.05);
+  color: #8dd13a !important;
+  font-weight: bold;
+}
+
 .hero .hero-media img {
   max-width: 700px;   /* 원하는 최대 너비 */
   width: 90%;         /* 비율에 맞게 알아서 조절 */
