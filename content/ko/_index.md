@@ -145,7 +145,7 @@ sections:
       items:
         - title: IELTS
           organization: IDP
-          certificate_url: '/award/certification'
+          certificate_url: '/awards/certification'
           date_start: '2024-08-31'
           date_end: ''
           description: |
@@ -154,7 +154,7 @@ sections:
             
         - title: 네트워크 관리사 2급 (필기)
           organization: 한국정보통신자격협회
-          certificate_url: '/award/certification'
+          certificate_url: '/awards/certification'
           date_start: '2024-05-19'
           date_end: ''
           description: |
@@ -163,7 +163,7 @@ sections:
             
         - title: 리눅스마스터 2급
           organization: 대한검정회
-          certificate_url: '/award/certification'
+          certificate_url: '/awards/certification'
           date_start: '2014-09-13'
           date_end: ''
           description: |
