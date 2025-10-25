@@ -41,7 +41,7 @@ main:
     weight: 40
   - parent: personal
     name: exchange student
-    url: event
+    url: exchange
     weight: 40
   - parent: personal
     name: sns

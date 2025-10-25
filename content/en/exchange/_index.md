@@ -1,8 +1,8 @@
 ---
-title: daily life in poznan
+title: Exchange Semester in Poland
 
 # Listing view
-view: compact
+view: grid
 
 # Optional header image (relative to `assets/media/` folder).
 banner:
