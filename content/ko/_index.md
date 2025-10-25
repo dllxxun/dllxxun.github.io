@@ -144,9 +144,8 @@ sections:
       title: 🎓 자격증
       items:
         - title: IELTS
-          company: IDP
-          company_url: ''
-          location: ''
+          organization: IDP
+          certificate_url: '/award/certification'
           date_start: '2024-08-31'
           date_end: ''
           description: |
@@ -154,9 +153,8 @@ sections:
             
             
         - title: 네트워크 관리사 2급 (필기)
-          company: 한국정보통신자격협회
-          company_url: ''
-          location: ''
+          organization: 한국정보통신자격협회
+          certificate_url: '/award/certification'
           date_start: '2024-05-19'
           date_end: ''
           description: |
@@ -164,16 +162,15 @@ sections:
             
             
         - title: 리눅스마스터 2급
-          company: 대한검정회
-          company_url: ''
-          location: ''
+          organization: 대한검정회
+          certificate_url: '/award/certification'
           date_start: '2014-09-13'
           date_end: ''
           description: |
             리눅스 운영체제의 기본 관리, 명령어 활용, 서버 설정 및 네트워크 운용 능력을 인증
             
     design:
-      columns: '2'
+      columns: '3'
 
   - block: markdown
     content:

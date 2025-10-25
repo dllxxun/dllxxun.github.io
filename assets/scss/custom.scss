@@ -132,6 +132,113 @@ a.read-more:hover {
   box-shadow: 0 4px 12px rgba(141, 209, 58, 0.3);
 }
 
+/* ========== 타임라인 스타일 (초록색) ========== */
+
+/* 타임라인 컨테이너 */
+.experience,
+.accomplishments {
+  position: relative;
+  padding-left: 40px;
+}
+
+/* 왼쪽 세로 선 - 초록색 */
+.experience::before,
+.accomplishments::before {
+  content: '';
+  position: absolute;
+  left: 8px;
+  top: 0;
+  bottom: 0;
+  width: 2px;
+  background-color: #8dd13a !important;
+}
+
+/* 동그라미 - 초록색 */
+.experience .card::before,
+.accomplishments .card::before,
+.stream-item::before {
+  content: '';
+  position: absolute;
+  left: -32px;
+  top: 20px;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background-color: #8dd13a !important;
+  border: 3px solid white;
+  box-shadow: 0 0 0 2px #8dd13a;
+  z-index: 1;
+}
+
+/* 카드 스타일 */
+.experience .card,
+.accomplishments .card {
+  position: relative;
+  background: white;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 30px;
+  transition: all 0.3s ease;
+}
+
+.experience .card:hover,
+.accomplishments .card:hover {
+  border-color: #8dd13a;
+  box-shadow: 0 4px 16px rgba(141, 209, 58, 0.2);
+  transform: translateX(5px);
+}
+
+/* 제목 - 검정색 */
+.experience .card h3,
+.accomplishments .card h3,
+.card-title {
+  color: #2b2b2b !important;
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+
+/* 기관명 - 회색 */
+.experience .card .organization,
+.accomplishments .card .organization {
+  color: #666 !important;
+  font-size: 14px;
+  margin-bottom: 8px;
+}
+
+/* 날짜 - 회색 */
+.experience .card .date,
+.accomplishments .card .date,
+.article-metadata time {
+  color: #888 !important;
+  font-size: 13px;
+}
+
+/* 설명 텍스트 - 검정 */
+.experience .card p,
+.accomplishments .card p {
+  color: #333 !important;
+  line-height: 1.6;
+}
+
+/* 다크모드 */
+@media (prefers-color-scheme: dark) {
+  .experience .card,
+  .accomplishments .card {
+    background: #2c2c2c;
+    border-color: #444;
+  }
+  
+  .experience .card h3,
+  .accomplishments .card h3 {
+    color: #e0e0e0 !important;
+  }
+  
+  .experience .card::before,
+  .accomplishments .card::before {
+    border-color: #2c2c2c;
+  }
+}
 
 
 
