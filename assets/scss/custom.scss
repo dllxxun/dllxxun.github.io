@@ -2,7 +2,10 @@
 .navbar-nav .nav-link:hover,
 .navbar-nav .dropdown-item:hover,
 .docs-links a:hover,
-.docs-toc a:hover {
+.docs-toc a:hover
+.navbar-brand:hover,
+.site-logo:hover,
+header .logo:hover {
   color: #8dd13a !important;  /* 초록색 강조 효과 */
   transition: color 0.2s ease-in-out;
   text-decoration: underline; /* 밑줄 효과 */
@@ -14,6 +17,45 @@
   color: #8dd13a !important;
 }
 
+/* 언어 선택 드롭다운 hover */
+.dropdown-toggle:hover,
+.language-selector:hover,
+.dropdown-item:hover {
+  color: #8dd13a !important;
+  background-color: rgba(141, 209, 58, 0.1);
+}
+
+/* 아이콘(지구본, 다크모드 등) hover */
+.navbar .btn:hover,
+.navbar button:hover,
+.navbar i:hover,
+.navbar svg:hover {
+  color: #8dd13a !important;
+  fill: #8dd13a !important;
+}
+
+/* 모바일 토글 버튼 */
+.navbar-toggler:hover {
+  border-color: #8dd13a !important;
+}
+
+/* 검색 아이콘 */
+.search-icon:hover,
+.search-btn:hover {
+  color: #8dd13a !important;
+}
+
+/* 다크모드 토글 버튼 */
+.theme-toggle:hover,
+.dark-mode-toggle:hover {
+  color: #8dd13a !important;
+}
+
+/* 언어 드롭다운 내부 항목들 */
+.dropdown-menu a:hover {
+  color: #8dd13a !important;
+  background-color: rgba(141, 209, 58, 0.1) !important;
+}
 .hero .hero-media img {
   max-width: 700px;   /* 원하는 최대 너비 */
   width: 90%;         /* 비율에 맞게 알아서 조절 */
