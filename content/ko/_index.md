@@ -138,6 +138,43 @@ sections:
       view: citation
       columns: '1'
 
+  - block: experience
+    id: certificates
+    content:
+      title: 🎓 자격증
+      items:
+        - title: IELTS
+          company: IDP
+          company_url: ''
+          location: ''
+          date_start: '2024-08-31'
+          date_end: ''
+          description: |
+            IDP에서 주관하는 국제 영어 능력 시험인 IELTS를 완료하여 영어 듣기, 읽기, 쓰기, 말하기 영역에서의 능력을 입증받았습니다.
+            
+            
+        - title: 네트워크 관리사 2급 (필기)
+          company: 한국정보통신자격협회
+          company_url: ''
+          location: ''
+          date_start: '2024-05-19'
+          date_end: ''
+          description: |
+            TCP/IP, OSI 모델, 네트워크 보안 및 실무적인 네트워크 관리 능력 인증
+            
+            
+        - title: 리눅스마스터 2급
+          company: 대한검정회
+          company_url: ''
+          location: ''
+          date_start: '2014-09-13'
+          date_end: ''
+          description: |
+            리눅스 운영체제의 기본 관리, 명령어 활용, 서버 설정 및 네트워크 운용 능력을 인증
+            
+    design:
+      columns: '2'
+
   - block: markdown
     content:
       title:
