@@ -162,7 +162,11 @@ a.read-more:hover {
 
 /* 제목 - 검정색 (진하게) */
 .experience .card h3,
-.accomplishments .card h3 {
+.experience .card .title,
+.experience h3,
+.accomplishments .card h3,
+.accomplishments .card .title,
+.accomplishments h3 {
   color: #2b2b2b !important;
   font-weight: 700;
   font-size: 1.2rem;
