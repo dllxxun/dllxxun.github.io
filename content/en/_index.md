@@ -71,7 +71,7 @@ sections:
     design:
       view: card
       columns: '1'
-      
+
   - block: slider
     content:
       title: Projects
@@ -159,6 +159,8 @@ sections:
             
         - title: Linux Master Level 2
           organization: Korea Chamber of Informatization
+          date_start: '2025-09-13'
+          date_end: ''
           description: |
             Certified for proficiency in basic Linux administration, command-line usage, server configuration, and network operation.
             

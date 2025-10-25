@@ -24,8 +24,10 @@ sections:
         <br>
 
         <small style="color: #aeaeaeff; font-size: 0.7rem;">
-        <em>Python Turtle로 그린 보라색 고구마 🎨<br>
-        귀여운 캐릭터를 직접 만들어봤어요!</em>
+          <a href="/python/sweetpotato.py" style="color: #5c5c5cff;" download>
+            Python Turtle로 그린 보라색 고구마 🎨
+          </a><br>
+        귀여운 캐릭터를 직접 만들어봤어요!
         </small>      
       
       
