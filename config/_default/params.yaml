@@ -6,11 +6,12 @@
 # Appearance
 
 appearance:
-  theme_day: sky
-  theme_night: dark
-  font: sky
+  theme_day: minimal
+  theme_night: minimal
+  font: native
   font_size: L
-  color: sky
+  primary_color: '#8dd13a'  # 초록색으로 변경
+  link_color: '#8dd13a'     # 링크 색상도 초록색으로
 
 # SEO
 
