@@ -23,7 +23,7 @@ sections:
         겨울엔 고구마를 드세요..
         <br>
 
-        <small style="color: #666; font-size: 0.85rem;">
+        <small style="color: #aeaeaeff; font-size: 0.7rem;">
         <em>Python Turtle로 그린 보라색 고구마 🎨<br>
         귀여운 캐릭터를 직접 만들어봤어요!</em>
         </small>      
