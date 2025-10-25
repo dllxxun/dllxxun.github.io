@@ -1,6 +1,8 @@
 /* 네비게이션 링크 hover 색상 변경 */
-.navbar .nav-link:hover,
-.navbar .nav-link:focus {
+.navbar-nav .nav-link:hover,
+.navbar-nav .dropdown-item:hover,
+.docs-links a:hover,
+.docs-toc a:hover {
   color: #8dd13a !important;  /* 초록색 강조 효과 */
   transition: color 0.2s ease-in-out;
   text-decoration: underline; /* 밑줄 효과 */
