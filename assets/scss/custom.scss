@@ -215,6 +215,70 @@ a.read-more:hover {
   }
 }
 
+/* ========== 사이드바 소셜 아이콘 - 초록색 ========== */
+
+/* 소셜 아이콘 기본 색상 - 초록색 */
+.network-icon,
+.social-icons a,
+.author-card .network-icon,
+ul.network-icon li a {
+  color: #8dd13a !important;
+  transition: all 0.3s ease;
+}
+
+/* 호버 시 - 더 진한 초록색 */
+.network-icon:hover,
+.social-icons a:hover,
+.author-card .network-icon:hover,
+ul.network-icon li a:hover {
+  color: #7bc12b !important;
+  transform: scale(1.1);
+}
+
+/* SVG 아이콘 색상 */
+.network-icon svg,
+.social-icons svg {
+  fill: #8dd13a !important;
+  color: #8dd13a !important;
+}
+
+.network-icon:hover svg,
+.social-icons a:hover svg {
+  fill: #7bc12b !important;
+  color: #7bc12b !important;
+}
+
+/* Font Awesome 아이콘 */
+.network-icon i,
+.social-icons i,
+.fab,
+.fas {
+  color: #8dd13a !important;
+}
+
+.network-icon:hover i,
+.social-icons a:hover i {
+  color: #7bc12b !important;
+}
+
+/* ========== 최신 섹션 링크 - 초록색 ========== */
+
+/* "최신" 제목 아래 링크들 */
+.sidebar ul li a,
+aside ul li a,
+.widget-recent-posts a {
+  color: #8dd13a !important;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.sidebar ul li a:hover,
+aside ul li a:hover {
+  color: #7bc12b !important;
+  text-decoration: underline;
+}
+
+
 
 
 
