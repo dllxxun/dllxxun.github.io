@@ -2,7 +2,7 @@
 title: 쿠키런 프로젝트
 publishDate: 2023-12-04
 links:
-  - type: 클릭하시면 더 자세히 보실 수 있습니다.
+  - name: 클릭하시면 더 자세히 보실 수 있습니다.
     url: https://github.com/dllxxun/cookierun
 
 authors:

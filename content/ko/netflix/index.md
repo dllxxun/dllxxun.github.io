@@ -2,7 +2,7 @@
 title: 넷플릭스 클론 생성
 publishDate: 2024-12-04
 links:
-  - type: 클릭하시면 더 자세히 보실 수 있습니다.
+  - name: 클릭하시면 더 자세히 보실 수 있습니다.
     url: https://github.com/dllxxun/movielist.github.io.git
 
 authors:
