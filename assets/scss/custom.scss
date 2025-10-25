@@ -8,6 +8,7 @@
 header .logo:hover {
   color: #8dd13a !important;  /* 초록색 강조 효과 */
   transition: color 0.2s ease-in-out;
+  transform: scale(1.05);
   text-decoration: underline; /* 밑줄 효과 */
 }
 
@@ -62,21 +63,6 @@ header .logo:hover {
 #features i,
 .features-block .fas {
   color: #8dd13a !important;
-}
-
-/* 사이드바 메뉴 확대 효과 */
-.sidebar a,
-.docs-sidebar a,
-nav.toc a {
-  transition: all 0.2s ease;
-}
-
-.sidebar a:hover,
-.docs-sidebar a:hover,
-nav.toc a:hover {
-  transform: scale(1.05);
-  color: #8dd13a !important;
-  font-weight: bold;
 }
 
 .hero .hero-media img {
