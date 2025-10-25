@@ -58,7 +58,7 @@ sections:
       text:
     design:
       columns: '1'
-      background:
+      # background:
         # image: 
         #   filename: contact.jpg
         #   filters:
