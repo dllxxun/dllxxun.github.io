@@ -85,5 +85,59 @@ header .logo:hover {
   max-height: 500px;
 }
 
+/* ========== 자격증/상 카드 스타일 (검정색 제목 + 초록색 버튼) ========== */
+
+/* 카드 제목 - 검정색 */
+.card h3,
+.card-title,
+.accomplishments h3,
+.experience h3,
+article h3,
+.post-title {
+  color: #333 !important;  /* 검정색 */
+}
+
+/* 다크모드일 때는 밝은 회색 */
+@media (prefers-color-scheme: dark) {
+  .card h3,
+  .card-title,
+  .accomplishments h3,
+  .experience h3,
+  article h3,
+  .post-title {
+    color: #e0e0e0 !important;  /* 밝은 회색 */
+  }
+}
+
+/* 자세히 보기 버튼 - 초록색 */
+.btn,
+.btn-primary,
+a[href*="자세히"],
+a.read-more,
+.card a.btn {
+  background-color: #8dd13a !important;
+  border-color: #8dd13a !important;
+  color: white !important;
+  font-weight: 500;
+  transition: all 0.3s ease;
+}
+
+.btn:hover,
+.btn-primary:hover,
+a[href*="자세히"]:hover,
+a.read-more:hover {
+  background-color: #7bc12b !important;
+  border-color: #7bc12b !important;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(141, 209, 58, 0.3);
+}
+
+/* 버튼 화살표 */
+.btn::after,
+.read-more::after {
+  content: ' →';
+}
+
+
 
 
