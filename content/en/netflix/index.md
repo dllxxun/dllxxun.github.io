@@ -1,5 +1,5 @@
 ---
-title: 넷플릭스 클론 생성
+title: Netflix clone
 publishDate: 2024-12-04
 links:
   - name: Click here for more details.

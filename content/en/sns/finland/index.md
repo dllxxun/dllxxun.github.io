@@ -1,6 +1,6 @@
 ---
-title: 산타는 진짜 있다..!!🎅🏻
-summary: 핀란드 로바니에미에 오로라를 보러갔어요
+title: Santa is Real..!!🎅🏻
+summary: I went to Rovaniemi, Finland to see the Aurora
 date: 2025-03-27
 
 # Featured image
@@ -27,6 +27,6 @@ tags:
 
 ## License
 
-[클릭하면 더 자세한 글을 볼 수 있어요!](https://blog.naver.com/cyj0749/223829277172).
+[Click here for a more detailed article!](https://blog.naver.com/cyj0749/223829277172).
 
 <!-- Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md) license. -->

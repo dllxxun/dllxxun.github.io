@@ -1,6 +1,6 @@
 ---
-title: 하루에 2만보씩 걸은 로마에서..
-summary: 로마 여행을 갔어요
+title: 하Walked 20,000 steps a day in Rome..
+summary: I went on a trip to Rome
 date: 2025-06-02
 
 # Featured image
@@ -21,12 +21,12 @@ tags:
 
 ## Overview
 
-로마..
+Rome..
 
 ---------------------------------------------
 
 ## License
 
-[클릭하면 더 자세한 글을 볼 수 있어요!](https://blog.naver.com/cyj0749/224014402239).
+[Click here for a more detailed article!](https://blog.naver.com/cyj0749/224014402239).
 
 <!-- Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md) license. -->

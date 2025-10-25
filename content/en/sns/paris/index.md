@@ -1,6 +1,6 @@
 ---
-title: 24년만에 본 에펠탑..
-summary: 파리 여행을 갔어요
+title: I saw the Eiffel Tower for the first time in 24 years in Paris
+summary: I went on a trip to Paris
 date: 2025-07-01
 
 # Featured image
@@ -21,12 +21,12 @@ tags:
 
 ## Overview
 
-파리..
+Paris..
 
 ---------------------------------------------
 
 ## License
 
-[클릭하면 더 자세한 글을 볼 수 있어요!](https://blog.naver.com/cyj0749/224036923419).
+[Click here for a more detailed article!](https://blog.naver.com/cyj0749/224036923419).
 
 <!-- Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md) license. -->
