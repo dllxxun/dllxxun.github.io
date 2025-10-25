@@ -138,7 +138,7 @@ sections:
       view: citation
       columns: '1'
 
-  - block: experience
+  - block: accomplishments
     id: certificates
     content:
       title: 🎓 자격증
@@ -164,7 +164,7 @@ sections:
         - title: 리눅스마스터 2급
           organization: 대한검정회
           certificate_url: '/awards/certification'
-          date_start: '2014-09-13'
+          date_start: '2024-09-13'
           date_end: ''
           description: |
             리눅스 운영체제의 기본 관리, 명령어 활용, 서버 설정 및 네트워크 운용 능력을 인증

@@ -141,34 +141,6 @@ a.read-more:hover {
   padding-left: 40px;
 }
 
-/* 왼쪽 세로 선 - 초록색 */
-.experience::before,
-.accomplishments::before {
-  content: '';
-  position: absolute;
-  left: 8px;
-  top: 0;
-  bottom: 0;
-  width: 3px;
-  background-color: #8dd13a !important;
-}
-
-/* 동그라미 - 초록색 */
-.experience .card::before,
-.accomplishments .card::before {
-  content: '';
-  position: absolute;
-  left: -32px;
-  top: 20px;
-  width: 18px;
-  height: 18px;
-  border-radius: 50%;
-  background-color: #8dd13a !important;
-  border: 4px solid white;
-  box-shadow: 0 0 0 3px #8dd13a;
-  z-index: 1;
-}
-
 /* 카드 배경  */
 .experience .card,
 .accomplishments .card {
