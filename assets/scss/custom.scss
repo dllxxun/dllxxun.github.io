@@ -56,6 +56,14 @@ header .logo:hover {
   color: #8dd13a !important;
   background-color: rgba(141, 209, 58, 0.1) !important;
 }
+
+/* 기본 아이콘 색상 초록색 */
+#features .fas,
+#features i,
+.features-block .fas {
+  color: #8dd13a !important;
+}
+
 .hero .hero-media img {
   max-width: 700px;   /* 원하는 최대 너비 */
   width: 90%;         /* 비율에 맞게 알아서 조절 */
