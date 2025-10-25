@@ -11,7 +11,8 @@ sections:
       title: |
 
       
-        안녕하세요.. 연재입니다.
+        안녕하세요.. 
+        연재입니다.
       image:
         filename: welcome.jpg
       text: |
@@ -20,6 +21,14 @@ sections:
         🍠🍠🍠🍠🍠🍠🍠🍠🍠
 
         겨울엔 고구마를 드세요..
+        <br>
+
+        <small style="color: #666; font-size: 0.85rem;">
+        <em>Python Turtle로 그린 보라색 고구마 🎨<br>
+        귀여운 캐릭터를 직접 만들어봤어요!</em>
+        </small>      
+      
+      
   
   - block: features
     id: features
