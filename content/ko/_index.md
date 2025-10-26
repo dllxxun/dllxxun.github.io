@@ -182,9 +182,8 @@ sections:
           date_end: ''
           description: |
             리눅스 운영체제의 기본 관리, 명령어 활용, 서버 설정 및 네트워크 운용 능력을 인증
-          link:
-            url: /awards/certification
-            text: 자세히 보기
+          text: |
+            {{% cta cta_link="./awards/certification" cta_text="자세히보기 →" %}}
             
     design:
       columns: '3'
