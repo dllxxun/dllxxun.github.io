@@ -5,6 +5,24 @@ date: 2022-10-24
 type: landing
 
 sections:
+  - block: markdown
+    content:
+      title: ''
+      text: ''
+    design:
+      columns: '1'
+      background:
+        image: 
+          filename: contact.jpg
+          filters:
+            brightness: 0.8
+          size: cover
+          position: center
+        text_color_light: true
+      spacing:
+        padding: ['200px', '0', '100px', '0']
+      css_class: page-banner
+      
   - block: contact
     content:
       title: Contact
