@@ -1,6 +1,6 @@
 ---
 # Display name
-title: yeonjae
+title: yeonjae Choi
 
 # Full Name (for SEO)
 first_name: Choi
