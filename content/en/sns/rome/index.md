@@ -1,5 +1,5 @@
 ---
-title: 하Walked 20,000 steps a day in Rome..
+title: Walked 20,000 steps a day in Rome..
 summary: I went on a trip to Rome
 date: 2025-06-02
 

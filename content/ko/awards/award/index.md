@@ -18,9 +18,9 @@ summary: 수상 경력 목록
 
 <div class="gallery">
   <div class="gallery-item">
-    <img src="/static/images/award1.jpg" alt="상">
+    <img src="/images/award1.jpg" alt="상">
   </div>
   <div class="gallery-item">
-    <img src="/static/images/award2.jpg" alt="상장과나">
+    <img src="/images/award2.jpg" alt="상장과나">
   </div>
 </div>
