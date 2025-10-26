@@ -148,25 +148,31 @@ sections:
       items:
         - title: IELTS
           organization: IDP
+          organization_url: https://ieltskorea.org/korea
           date_start: '2024-08-31'
           date_end: ''
           description: |
             Completed the International English Language Testing System (IELTS) conducted by IDP, demonstrating proficiency in listening, reading, writing, and speaking.
+          url: ''
             
             
         - title: Network Manager Level 2 (Written)
           organization: Korea Information and Communication Qualification Association
+          organization_url: https://www.icqa.or.kr/cn/page/network
           date_start: '2024-05-19'
           date_end: ''
           description: |
             Certified in TCP/IP, OSI model, network security, and practical network management skills.
+          url: ''
             
         - title: Linux Master Level 2
           organization: Korea Chamber of Informatization
+          organization_url: https://www.ihd.or.kr/main.do
           date_start: '2025-09-13'
           date_end: ''
           description: |
             Certified for proficiency in basic Linux administration, command-line usage, server configuration, and network operation.
+          url: ''
             
     design:
       columns: '3'
