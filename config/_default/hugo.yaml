@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: dllxxun # Website name
+title: 전북대학교 최연재 | yeonjae # Website name
 baseURL: 'https://dllxxun.github.io/' # Website URL
 
 ############################
