@@ -1,7 +1,8 @@
 # [최연재의 포트폴리오](https://dllxxun.github.io)
 
 25-2 초급프로젝트 | 전북대학교 최연재의 포트폴리오 웹사이트입니다.
-[![Screenshot](preview.png)] (https://dllxxun.github.io)
+![Screenshot](preview.png)
+
 
 ---
 
@@ -64,15 +65,13 @@
 
 ✨ **주요 페이지 소개**
 
-About (자기소개) — 학력, 관심 분야, 전공 소개
+[**About**](https://dllxxun.github.io/author/최연재) — 학력, 관심 분야, 전공 소개
 
-awards & certifications — 자격증과 수상 내역 소개
+[**awards & certifications**](https://dllxxun.github.io/awards/) — 자격증과 수상 내역 소개
 
-Projects (프로젝트) — 쿠키런 프로젝트, 넷플릭스 클론 생성, AWS 기반 출석 관리 시스템 등
+[**Projects**](https://dllxxun.github.io/netflix/) — 쿠키런 프로젝트(https://dllxxun.github.io/cookierun/), 넷플릭스 클론 생성, AWS 기반 출석 관리 시스템 등
 
-Personal (개인) — 교환학생 일상, 여행 기록
-
-Certifications (자격증) — IELTS, 정보처리기사 등 보유 자격증 정리
+[**Personal**](https://dllxxun.github.io/exchange/) — 교환학생 일상, 여행 기록(https://dllxxun.github.io/sns/)
 
 ---
 
