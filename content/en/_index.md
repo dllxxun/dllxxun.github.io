@@ -21,7 +21,9 @@ sections:
 
         Eat sweet potatoes in winter..
 
-        <small style="color: #aeaeaeff; font-size: 0.7rem;"> <a href="/python/sweetpotato.py" style="color: #5c5c5cff;" download> Python Turtle module purple sweet potato 🎨 </a><br> I introduced my favorite winter snack, the sweet potato, on the first page. I created a sweet potato character using the Python Turtle module. By clicking the text above, you can download the executable file. Please download and enjoy! </small>
+        <small style="color: #aeaeaeff; font-size: 0.7rem;"> <a href="/python/sweetpotato.py" style="color: #5c5c5cff;" download> Python Turtle module purple sweet potato 🎨 </a><br> I introduced my favorite winter snack, the sweet potato, on the first page. 
+        I created a sweet potato character using the Python Turtle module. By clicking the text above, you can download the executable file.
+         Please download and enjoy! </small>
   
   - block: features
     id: features
