@@ -9,6 +9,7 @@ banner:
 ---
 
 📝 ability
+
 I passed the written exam for the Information Processing Engineer﻿ certification, and I am currently preparing for the practical test.
 
 I am preparing for the OPIc﻿ test with the goal of achieving an IH grade.
