@@ -45,7 +45,7 @@ social:
   
   - icon: envelope
     icon_pack: fas
-    link: 'cyj0749@naver.com'
+    link: 'mailto:cyj0749@naver.com'
   - icon: instagram
     icon_pack: fab
     link: https://www.instagram.com/dllxxun/
