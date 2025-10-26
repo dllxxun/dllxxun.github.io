@@ -162,9 +162,8 @@ sections:
           date_end: ''
           description: |
             IDP에서 주관하는 국제 영어 능력 시험인 IELTS를 완료하여 영어 듣기, 읽기, 쓰기, 말하기 영역에서의 능력을 입증받았습니다.
-          link:
-            url: /awards/certification
-            text: 자세히 보기
+          text: |
+            {{% cta cta_link="./awards/certification" cta_text="자세히보기 →" %}}
                       
         - title: 네트워크 관리사 2급 (필기)
           organization: 한국정보통신자격협회
@@ -172,9 +171,8 @@ sections:
           date_end: ''
           description: |
             TCP/IP, OSI 모델, 네트워크 보안 및 실무적인 네트워크 관리 능력 인증
-          link:
-            url: /awards/certification
-            text: 자세히 보기
+          text: |
+            {{% cta cta_link="./awards/certification" cta_text="자세히보기 →" %}}
             
         - title: 리눅스마스터 2급
           organization: 대한검정회
