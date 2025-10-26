@@ -69,9 +69,9 @@
 
 [**awards & certifications**](https://dllxxun.github.io/awards/) — 자격증과 수상 내역 소개
 
-[**Projects**](https://dllxxun.github.io/netflix/) — 쿠키런 프로젝트(https://dllxxun.github.io/cookierun/), 넷플릭스 클론 생성, AWS 기반 출석 관리 시스템 등
+Projects — [**쿠키런 프로젝트**](https://dllxxun.github.io/cookierun/), [**넷플릭스 클론 생성**](https://dllxxun.github.io/netflix/), [**AWS 기반 출석 관리 시스템**](https://dllxxun.github.io/studenmanagement/) 등
 
-[**Personal**](https://dllxxun.github.io/exchange/) — 교환학생 일상, 여행 기록(https://dllxxun.github.io/sns/)
+Personal— [**교환학생 일상**](https://dllxxun.github.io/exchange/), [**여행 기록**](https://dllxxun.github.io/sns/)
 
 ---
 
