@@ -24,6 +24,10 @@ main:
     url: project
     weight: 30
   - parent: projects
+    name: capstone
+    url: capstone
+    weight: 30
+  - parent: projects
     name: cookierun project
     url: cookierun
     weight: 30

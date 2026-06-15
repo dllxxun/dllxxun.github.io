@@ -25,6 +25,10 @@ main:
     url: project
     weight: 30
   - parent: 프로젝트
+    name: 캡스톤
+    url: capstone
+    weight: 30
+  - parent: 프로젝트
     name: 쿠키런 프로젝트
     url: cookierun
     weight: 30
