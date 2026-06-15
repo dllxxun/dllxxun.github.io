@@ -2,8 +2,10 @@
 title: 스마트 증식실 디지털트윈 (SeedLab)
 publishDate: 2026-06-04
 links:
-  - name: 클릭하시면 더 자세히 보실 수 있습니다.
+  - name: 운영 배포 사이트 (SeedLab)
     url: https://seedlab.headit.kr/dashboard
+  - name: GitHub
+    url: https://github.com/dllxxun/dllxxun.github.io
 
 authors:
   - admin

@@ -2,8 +2,10 @@
 title: Smart Propagation Room Digital Twin (SeedLab)
 publishDate: 2026-06-04
 links:
-  - name: Click here to see more details.
+  - name: Live Deployment (SeedLab)
     url: https://seedlab.headit.kr/dashboard
+  - name: GitHub
+    url: https://github.com/dllxxun/dllxxun.github.io
 
 authors:
   - admin
