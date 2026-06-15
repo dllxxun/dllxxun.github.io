@@ -14,7 +14,8 @@ tags:
   - networkng
 ---
 
-2023-2 | A Java-based Cookie Run game project. I was in charge of the network communication part.
+2023-2 | A Java-based Cookie Run game built by a team of 3. The game centers on character jumping and obstacle avoidance, and I was in charge of the real-time multiplayer communication part.
 
+I attempted to implement dual communication (real-time synchronization for two-player matches); stabilizing the connection remained a task for future improvement. Through this, I learned firsthand the difficulties of socket communication and real-time synchronization, and how important network design is.
 
 <!--more-->
